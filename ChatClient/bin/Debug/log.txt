@@ -1,0 +1,204 @@
+[01.01.2020 14:43:12] Open Login Form
+[01.01.2020 14:43:26] Open Login Form
+[01.01.2020 14:54:53] Open Login Form
+[01.01.2020 14:55:49] Open Login Form
+[01.01.2020 14:56:07] Open Login Form
+[01.01.2020 14:57:01] Open Login Form
+[01.01.2020 14:57:26] Open Login Form
+[01.01.2020 14:58:57] Open Login Form
+[01.01.2020 14:59:38] Open Login Form
+[01.01.2020 15:03:06] Open Login Form
+[01.01.2020 15:03:39] Open Login Form
+[01.01.2020 15:03:39] Set Setting to default ip:127.0.0.1 port:7770
+[01.01.2020 15:09:10] Open Login Form
+[01.01.2020 15:35:57] Open Login Form
+[01.01.2020 15:36:41] Open Login Form
+[01.01.2020 16:02:52]Open Login Form
+[01.01.2020 16:03:54] [Info] Open Login Form
+[01.01.2020 16:04:06] [Info] Open Login Form
+[01.01.2020 16:04:24] [Info] Open Login Form
+[01.01.2020 16:04:25] [Info] Connection...
+[01.01.2020 16:04:25] [Error] Значение не может быть неопределенным.
+Имя параметра: address
+[01.01.2020 16:05:04] [Info] Open Login Form
+[01.01.2020 16:05:13] [Info] Connection...
+[01.01.2020 16:06:42] [Info] Open Login Form
+[01.01.2020 16:06:51] [Info] Connection...
+[01.01.2020 16:06:51] [Error] Значение не может быть неопределенным.
+Имя параметра: address
+[01.01.2020 16:07:06] [Info] Open Login Form
+[01.01.2020 16:07:44] [Info] Open Login Form
+[01.01.2020 16:08:19] [Info] Open Login Form
+[01.01.2020 16:08:49] Save Properties
+[01.01.2020 16:09:16] [Info] Open Login Form
+[01.01.2020 16:09:24] Save Properties
+[01.01.2020 16:09:39] [Info] Connection...
+[01.01.2020 16:10:28] [Info] Open Login Form
+[01.01.2020 16:10:33] Save Properties
+[01.01.2020 16:10:37] [Info] Connection...
+[01.01.2020 16:10:39] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[01.01.2020 16:11:40] [Info] Connection...
+[01.01.2020 16:11:40] [Info] Connect
+[01.01.2020 16:11:40] [Info] Login...
+[01.01.2020 16:11:47] [Info] Connection...
+[01.01.2020 16:11:47] [Info] Connect
+[01.01.2020 16:11:47] [Info] Login...
+[01.01.2020 16:12:19] [Info] Open Login Form
+[01.01.2020 16:12:19] Save Properties
+[01.01.2020 16:12:20] [Info] Connection...
+[01.01.2020 16:12:20] [Info] Connect
+[01.01.2020 16:12:20] [Info] Login...
+[01.01.2020 16:12:46] [Info] Connection...
+[01.01.2020 16:12:46] [Info] Connect
+[01.01.2020 16:12:46] [Info] Login...
+[01.01.2020 21:47:15] [Info] Open Login Form
+[01.01.2020 21:47:15] [Info] Save Properties
+[01.01.2020 21:47:20] [Info] Connection...
+[01.01.2020 21:47:20] [Info] Connect
+[01.01.2020 21:47:20] [Info] Login...
+[01.01.2020 21:47:21] [Info] Login ssuccess
+[01.01.2020 21:47:21] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 21:47:21] [Error] Поток находился в процессе прерывания.
+[01.01.2020 21:49:31] [Info] Open Login Form
+[01.01.2020 21:49:31] [Info] Save Properties
+[01.01.2020 21:49:45] [Info] Connection...
+[01.01.2020 21:49:45] [Info] Connect
+[01.01.2020 21:49:45] [Info] Login...
+[01.01.2020 21:49:45] [Info] Login ssuccess
+[01.01.2020 21:49:45] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 21:50:23] [Info] Open Login Form
+[01.01.2020 21:50:23] [Info] Save Properties
+[01.01.2020 21:50:54] [Info] Connection...
+[01.01.2020 21:50:54] [Info] Connect
+[01.01.2020 21:50:54] [Info] Login...
+[01.01.2020 21:50:54] [Info] Login ssuccess
+[01.01.2020 21:50:54] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 21:51:38] [Info] Open Login Form
+[01.01.2020 21:51:38] [Info] Save Properties
+[01.01.2020 21:52:26] [Info] Open Login Form
+[01.01.2020 21:52:26] [Info] Save Properties
+[01.01.2020 21:52:47] [Info] Connection...
+[01.01.2020 21:52:47] [Info] Connect
+[01.01.2020 21:52:47] [Info] Login...
+[01.01.2020 21:52:47] [Info] Login ssuccess
+[01.01.2020 21:52:47] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 21:59:29] [Info] Open Login Form
+[01.01.2020 21:59:29] [Info] Save Properties
+[01.01.2020 21:59:40] [Info] Connection...
+[01.01.2020 21:59:40] [Info] Connect
+[01.01.2020 21:59:40] [Info] Login...
+[01.01.2020 21:59:41] [Info] Login success
+[01.01.2020 21:59:41] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:00:11] [Info] Open Login Form
+[01.01.2020 22:00:11] [Info] Save Properties
+[01.01.2020 22:00:15] [Info] Connection...
+[01.01.2020 22:00:15] [Info] Connect
+[01.01.2020 22:00:15] [Info] Login...
+[01.01.2020 22:00:15] [Info] Login success
+[01.01.2020 22:00:15] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:01:10] [Info] Open Login Form
+[01.01.2020 22:01:10] [Info] Save Properties
+[01.01.2020 22:01:14] [Info] Connection...
+[01.01.2020 22:01:14] [Info] Connect
+[01.01.2020 22:01:14] [Info] Login...
+[01.01.2020 22:01:14] [Info] Login success
+[01.01.2020 22:01:14] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:01:41] [Info] Open Login Form
+[01.01.2020 22:01:41] [Info] Save Properties
+[01.01.2020 22:01:47] [Info] Connection...
+[01.01.2020 22:01:47] [Info] Connect
+[01.01.2020 22:01:47] [Info] Login...
+[01.01.2020 22:01:47] [Info] Login success
+[01.01.2020 22:01:47] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:02:00] [Info] Open Login Form
+[01.01.2020 22:02:00] [Info] Save Properties
+[01.01.2020 22:02:14] [Info] Open Login Form
+[01.01.2020 22:02:14] [Info] Save Properties
+[01.01.2020 22:02:18] [Info] Connection...
+[01.01.2020 22:03:03] [Info] Open Login Form
+[01.01.2020 22:03:03] [Info] Save Properties
+[01.01.2020 22:03:07] [Info] Connection...
+[01.01.2020 22:03:07] [Info] Connect
+[01.01.2020 22:03:07] [Info] Login...
+[01.01.2020 22:03:07] [Info] Login success
+[01.01.2020 22:03:07] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:08:07] [Info] Open Login Form
+[01.01.2020 22:08:07] [Info] Save Properties
+[01.01.2020 22:08:10] [Info] Connection...
+[01.01.2020 22:08:12] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[01.01.2020 22:08:20] [Info] Connection...
+[01.01.2020 22:08:20] [Info] Connect
+[01.01.2020 22:08:20] [Info] Login...
+[01.01.2020 22:08:20] [Info] Login success
+[01.01.2020 22:08:20] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:16:16] [Info] Open Login Form
+[01.01.2020 22:16:16] [Info] Save Properties
+[01.01.2020 22:16:42] [Info] Connection...
+[01.01.2020 22:16:42] [Info] Connect
+[01.01.2020 22:16:42] [Info] Login...
+[01.01.2020 22:16:42] [Info] Login success
+[01.01.2020 22:16:42] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:16:47] asd
+[01.01.2020 22:16:52] sadf
+[01.01.2020 22:16:54] dsf
+[01.01.2020 22:17:30] [Info] Open Login Form
+[01.01.2020 22:17:30] [Info] Save Properties
+[01.01.2020 22:17:47] [Info] Connection...
+[01.01.2020 22:17:47] [Info] Connect
+[01.01.2020 22:17:47] [Info] Login...
+[01.01.2020 22:17:47] [Info] Login success
+[01.01.2020 22:17:47] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:20:17] [Info] Open Login Form
+[01.01.2020 22:20:17] [Info] Save Properties
+[01.01.2020 22:20:21] [Info] Connection...
+[01.01.2020 22:20:23] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[01.01.2020 22:20:35] [Info] Connection...
+[01.01.2020 22:20:35] [Info] Connect
+[01.01.2020 22:20:35] [Info] Login...
+[01.01.2020 22:20:35] [Info] Login success
+[01.01.2020 22:20:35] [Info] UpdateLog: 
+[01.01.2020 22:20:35] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:20:57] [Info] Open Login Form
+[01.01.2020 22:20:57] [Info] Save Properties
+[01.01.2020 22:21:09] [Info] Connection...
+[01.01.2020 22:21:09] [Info] Connect
+[01.01.2020 22:21:09] [Info] Login...
+[01.01.2020 22:21:09] [Info] Login success
+[01.01.2020 22:21:09] [Info] UpdateLog: Connected Successfully!
+[01.01.2020 22:21:09] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:25:33] [Info] Open Login Form
+[01.01.2020 22:25:33] [Info] Save Properties
+[01.01.2020 22:25:44] [Info] Connection...
+[01.01.2020 22:25:44] [Info] Connect
+[01.01.2020 22:25:44] [Info] Login...
+[01.01.2020 22:25:44] [Info] Login success
+[01.01.2020 22:25:44] [Info] UpdateLog: Connected Successfully!
+[01.01.2020 22:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:25:44] [Info] UpdateLog: Server: 123 has joined us
+[01.01.2020 22:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:25:44] [Info] 123
+[01.01.2020 22:25:44] [Info] Online
+[01.01.2020 22:25:44] Status
+[01.01.2020 22:25:44] [Info] Color Message And View: Online
+[01.01.2020 22:25:44] [Info] 123
+[01.01.2020 22:25:44] [Info] UpdateLog: 	News: 
+[01.01.2020 22:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:25:44] [Info] UpdateLog: Хи-хи
+[01.01.2020 22:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:25:44] [Info] UpdateLog: Далю новую версию!
+[01.01.2020 22:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:25:53] asd
+[01.01.2020 22:25:53] [Info] UpdateLog: 123 says: asd
+[01.01.2020 22:25:53] [Info] count: 3 endcount: 3 lenght: 1
+[01.01.2020 22:25:53] Name: 123 Messeage:  asd
+[01.01.2020 22:25:56] [Info] UpdateLog: Administrator: asfd
+[01.01.2020 22:25:56] [Info] count: -1 endcount: -1 lenght: 1
+[01.01.2020 22:26:04] [Info] Online
+[01.01.2020 22:26:04] Status
+[01.01.2020 22:26:04] [Info] Color Message And View: Online
+[01.01.2020 22:26:05] [Info] Medium Load
+[01.01.2020 22:26:05] Status
+[01.01.2020 22:26:05] [Info] Color Message And View: Medium Load
+[01.01.2020 22:26:12] [Info] Offline
+[01.01.2020 22:26:12] Status
+[01.01.2020 22:26:12] [Info] Color Message And View: Offline
