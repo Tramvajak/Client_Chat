@@ -74,7 +74,7 @@ namespace ChatClient
                 UserName = txt_Login.Text;
                 string password = txt_Password.Text;
                 swSender = new StreamWriter(tcpServer.GetStream());
-                swSender.WriteLine(UserName + "|" + password + "|" + "0.9a");
+                swSender.WriteLine(UserName + "|" + password + "|" + "0.1");
                 swSender.Flush();
                 Properties.Settings.Default.Name = UserName;
                 Properties.Settings.Default.Save();
@@ -142,6 +142,12 @@ namespace ChatClient
                 Debug.WriteLine(3, ex.Message);
                 MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void LoginForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            th.Abort();
+            Application.Exit();
         }
     }
 }

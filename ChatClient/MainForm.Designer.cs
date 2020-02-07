@@ -32,10 +32,10 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.lbl_ = new System.Windows.Forms.Label();
+            this.lbl_ChatTo = new System.Windows.Forms.Label();
             this.txtMessage = new System.Windows.Forms.TextBox();
+            this.listB_Users = new System.Windows.Forms.ListBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -73,14 +73,6 @@
             this.richTextBox1.TabIndex = 2;
             this.richTextBox1.Text = "";
             // 
-            // richTextBox2
-            // 
-            this.richTextBox2.Location = new System.Drawing.Point(12, 41);
-            this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(253, 328);
-            this.richTextBox2.TabIndex = 3;
-            this.richTextBox2.Text = "";
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -90,14 +82,14 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "Friends";
             // 
-            // lbl_
+            // lbl_ChatTo
             // 
-            this.lbl_.AutoSize = true;
-            this.lbl_.Location = new System.Drawing.Point(268, 24);
-            this.lbl_.Name = "lbl_";
-            this.lbl_.Size = new System.Drawing.Size(41, 13);
-            this.lbl_.TabIndex = 5;
-            this.lbl_.Text = "Chat to";
+            this.lbl_ChatTo.AutoSize = true;
+            this.lbl_ChatTo.Location = new System.Drawing.Point(268, 24);
+            this.lbl_ChatTo.Name = "lbl_ChatTo";
+            this.lbl_ChatTo.Size = new System.Drawing.Size(41, 13);
+            this.lbl_ChatTo.TabIndex = 5;
+            this.lbl_ChatTo.Text = "Chat to";
             // 
             // txtMessage
             // 
@@ -106,21 +98,31 @@
             this.txtMessage.Size = new System.Drawing.Size(408, 20);
             this.txtMessage.TabIndex = 6;
             // 
+            // listB_Users
+            // 
+            this.listB_Users.FormattingEnabled = true;
+            this.listB_Users.Location = new System.Drawing.Point(15, 41);
+            this.listB_Users.Name = "listB_Users";
+            this.listB_Users.Size = new System.Drawing.Size(250, 329);
+            this.listB_Users.TabIndex = 7;
+            this.listB_Users.SelectedIndexChanged += new System.EventHandler(this.listB_Users_SelectedIndexChanged);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listB_Users);
             this.Controls.Add(this.txtMessage);
-            this.Controls.Add(this.lbl_);
+            this.Controls.Add(this.lbl_ChatTo);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.richTextBox2);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
             this.Text = "MainForm";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MainForm_FormClosed);
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -135,9 +137,9 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.RichTextBox richTextBox2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label lbl_;
+        private System.Windows.Forms.Label lbl_ChatTo;
         private System.Windows.Forms.TextBox txtMessage;
+        private System.Windows.Forms.ListBox listB_Users;
     }
 }

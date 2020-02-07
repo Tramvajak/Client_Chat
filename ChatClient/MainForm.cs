@@ -56,7 +56,7 @@ namespace ChatClient
             th.Name = "Receive Message Main";
             th.Start();
         }
-        private void ReceiveMessage()
+        private void ReceiveMessage() // требует измененний
         {
 
             string[] mess = null;
@@ -130,7 +130,7 @@ namespace ChatClient
                             Debug.WriteLine(1, mess[1] + " " + mess[0]);
                             Invoke((MethodInvoker)delegate ()
                             {
-                                //OnClientsList(mess[0], "add");
+                                OnClientsList(mess[0], "add");
                             });
                         }
                         if (mess[1] == "OnListClientDell")
@@ -167,7 +167,15 @@ namespace ChatClient
                 }
             }
         }
-        private void UpdateLog(string message)
+        private void OnClientsList(string user, string key)
+        {
+            if(key=="add")
+            {
+                if (!listB_Users.Items.Contains(user))
+                    listB_Users.Items.Add(user);
+            }
+        }
+        private void UpdateLog(string message) // требует измененний
         {
             int count = message.IndexOf(" says:");
             int endcount = message.LastIndexOf(" says:");
@@ -235,14 +243,14 @@ namespace ChatClient
         {
             SendMessage();
         }
-        private void SendMessage()
+        private void SendMessage()// требует измененний
         {
             if (txtMessage.Lines.Length >= 1)
             {
                 string message = txtMessage.Text;
                 int count = message.IndexOf("/");
                 string[] mess = null;
-                if (message[0] == '/')
+                if (message[0] == '/') // не используется
                 {
                     mess = message.Split('/');
                     swSender.WriteLine(mess[1] + "|OnCmd");
@@ -260,6 +268,19 @@ namespace ChatClient
                 }
             }
             txtMessage.Text = "";
+        }
+
+        private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            th.Abort();
+            Application.Exit();
+        }
+
+        private void listB_Users_SelectedIndexChanged(object sender, EventArgs e) // тут нужно описать метот загрузки истории сообщений.
+                                                                                  // желательно хранить ее в файле рядом с клиентом
+        {
+            if (listB_Users.SelectedIndex == -1) return; 
+            lbl_ChatTo.Text = "Chat to " + listB_Users.SelectedItem;
         }
     }
 }

@@ -26,13 +26,19 @@ namespace ChatClient
         /// <param name="key">Код лога. 1=info 2=Warring 3=Error 0=Debug</param>
         public static void WriteLine(int key,string line)
         {
-            string msg = String.Format("[" + DateTime.Now + "] " + line + Environment.NewLine);
-            if (key == 0) msg = String.Format("[" + DateTime.Now + "] [Debug] " + line + Environment.NewLine);
-            if (key == 1) msg = String.Format("[" + DateTime.Now + "] [Info] " + line + Environment.NewLine);
-            if (key == 2) msg = String.Format("[" + DateTime.Now + "] [Warring] " + line + Environment.NewLine);
-            if (key == 3) msg = String.Format("[" + DateTime.Now + "] [Error] " + line + Environment.NewLine);
-            File.AppendAllText(_logPath, msg);
-            System.Diagnostics.Debug.WriteLine(msg);
+            try {
+                string msg = String.Format("[" + DateTime.Now + "] " + line + Environment.NewLine);
+                if (key == 0) msg = String.Format("[" + DateTime.Now + "] [Debug] " + line + Environment.NewLine);
+                if (key == 1) msg = String.Format("[" + DateTime.Now + "] [Info] " + line + Environment.NewLine);
+                if (key == 2) msg = String.Format("[" + DateTime.Now + "] [Warring] " + line + Environment.NewLine);
+                if (key == 3) msg = String.Format("[" + DateTime.Now + "] [Error] " + line + Environment.NewLine);
+                File.AppendAllText(_logPath, msg);
+                System.Diagnostics.Debug.WriteLine(msg);
+            }
+            catch(Exception ex)
+            {
+
+            }
         }
         /// <summary>
         ///  Записывает лог в файл

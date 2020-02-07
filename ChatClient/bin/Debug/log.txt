@@ -202,3 +202,1110 @@
 [01.01.2020 22:26:12] [Info] Offline
 [01.01.2020 22:26:12] Status
 [01.01.2020 22:26:12] [Info] Color Message And View: Offline
+[06.02.2020 14:18:22] [Info] Open Login Form
+[06.02.2020 14:18:22] [Info] Save Properties
+[06.02.2020 14:18:27] [Info] Connection...
+[06.02.2020 14:18:48] [Error] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера 78.106.71.120:7770
+[06.02.2020 14:26:08] [Info] Open Login Form
+[06.02.2020 14:26:08] [Info] Save Properties
+[06.02.2020 14:26:12] [Info] Connection...
+[06.02.2020 14:26:12] [Info] Connect
+[06.02.2020 14:26:12] [Info] Login...
+[06.02.2020 14:26:40] [Error] Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+[06.02.2020 14:45:07] [Info] Open Login Form
+[06.02.2020 14:45:07] [Info] Save Properties
+[06.02.2020 14:45:10] [Info] Connection...
+[06.02.2020 14:45:11] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[06.02.2020 14:45:17] [Info] Connection...
+[06.02.2020 14:45:17] [Info] Connect
+[06.02.2020 14:45:17] [Info] Login...
+[06.02.2020 14:46:03] [Error] Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+[06.02.2020 14:52:58] [Info] Connection...
+[06.02.2020 14:52:58] [Info] Connect
+[06.02.2020 14:52:58] [Info] Login...
+[06.02.2020 14:54:02] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[06.02.2020 15:01:52] [Info] Connection...
+[06.02.2020 15:01:53] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[06.02.2020 15:01:56] [Info] Connection...
+[06.02.2020 15:01:56] [Info] Connect
+[06.02.2020 15:01:56] [Info] Login...
+[06.02.2020 15:02:04] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[06.02.2020 15:04:37] [Info] Connection...
+[06.02.2020 15:04:37] [Info] Connect
+[06.02.2020 15:04:37] [Info] Login...
+[06.02.2020 15:04:42] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:05:55] [Info] Open Login Form
+[06.02.2020 15:05:55] [Info] Save Properties
+[06.02.2020 15:06:14] [Info] Connection...
+[06.02.2020 15:06:14] [Info] Connect
+[06.02.2020 15:06:14] [Info] Login...
+[06.02.2020 15:06:15] [Info] Connection...
+[06.02.2020 15:06:15] [Info] Connect
+[06.02.2020 15:06:15] [Info] Login...
+[06.02.2020 15:06:19] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:06:19] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:06:48] [Info] Open Login Form
+[06.02.2020 15:06:48] [Info] Save Properties
+[06.02.2020 15:06:48] [Info] Open Login Form
+[06.02.2020 15:06:48] [Info] Save Properties
+[06.02.2020 15:06:50] [Info] Open Login Form
+[06.02.2020 15:06:50] [Info] Save Properties
+[06.02.2020 15:07:00] [Info] Connection...
+[06.02.2020 15:07:00] [Info] Connect
+[06.02.2020 15:07:00] [Info] Login...
+[06.02.2020 15:07:00] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:07:01] [Info] Connection...
+[06.02.2020 15:07:01] [Info] Connect
+[06.02.2020 15:07:01] [Info] Login...
+[06.02.2020 15:07:01] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:07:02] [Info] Connection...
+[06.02.2020 15:07:02] [Info] Connect
+[06.02.2020 15:07:02] [Info] Login...
+[06.02.2020 15:07:02] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:07:19] [Info] Open Login Form
+[06.02.2020 15:07:19] [Info] Save Properties
+[06.02.2020 15:07:26] [Info] Connection...
+[06.02.2020 15:07:26] [Info] Connect
+[06.02.2020 15:07:26] [Info] Login...
+[06.02.2020 15:07:27] [Info] Connection...
+[06.02.2020 15:07:27] [Info] Connect
+[06.02.2020 15:07:27] [Info] Login...
+[06.02.2020 15:07:28] [Info] Connection...
+[06.02.2020 15:07:28] [Info] Connect
+[06.02.2020 15:07:28] [Info] Login...
+[06.02.2020 15:07:30] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:07:30] [Warring] 0|This old version! Please check new version!
+[06.02.2020 15:07:30] [Warring] 0|This old version! Please check new version!
+[07.02.2020 9:51:01] [Info] Open Login Form
+[07.02.2020 9:51:01] [Info] Save Properties
+[07.02.2020 9:51:06] [Info] Connection...
+[07.02.2020 9:51:07] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[07.02.2020 9:51:09] [Info] Connection...
+[07.02.2020 9:51:09] [Info] Connect
+[07.02.2020 9:51:09] [Info] Login...
+[07.02.2020 9:51:09] [Warring] 0|This old version! Please check new version!
+[07.02.2020 9:52:12] [Info] Open Login Form
+[07.02.2020 9:52:12] [Info] Save Properties
+[07.02.2020 9:52:17] [Info] Connection...
+[07.02.2020 9:52:17] [Info] Connect
+[07.02.2020 9:52:17] [Info] Login...
+[07.02.2020 9:52:30] [Info] Connection...
+[07.02.2020 9:52:30] [Info] Connect
+[07.02.2020 9:52:30] [Info] Login...
+[07.02.2020 9:52:34] [Info] Connection...
+[07.02.2020 9:52:34] [Info] Connect
+[07.02.2020 9:52:34] [Info] Login...
+[07.02.2020 9:52:43] [Info] Connection...
+[07.02.2020 9:52:43] [Info] Connect
+[07.02.2020 9:52:43] [Info] Login...
+[07.02.2020 9:52:52] [Info] Connection...
+[07.02.2020 9:52:52] [Info] Connect
+[07.02.2020 9:52:52] [Info] Login...
+[07.02.2020 9:53:17] [Info] Connection...
+[07.02.2020 9:53:17] [Info] Connect
+[07.02.2020 9:53:17] [Info] Login...
+[07.02.2020 9:53:38] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:53:38] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:53:38] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:53:38] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:53:38] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:53:54] [Info] Open Login Form
+[07.02.2020 9:53:54] [Info] Save Properties
+[07.02.2020 9:54:24] [Info] Connection...
+[07.02.2020 9:54:25] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[07.02.2020 9:54:28] [Info] Connection...
+[07.02.2020 9:54:28] [Info] Connect
+[07.02.2020 9:54:28] [Info] Login...
+[07.02.2020 9:54:34] [Info] Connection...
+[07.02.2020 9:54:34] [Info] Connect
+[07.02.2020 9:54:34] [Info] Login...
+[07.02.2020 9:54:39] [Info] Connection...
+[07.02.2020 9:54:39] [Info] Connect
+[07.02.2020 9:54:39] [Info] Login...
+[07.02.2020 9:55:00] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:55:00] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:55:06] [Info] Open Login Form
+[07.02.2020 9:55:06] [Info] Save Properties
+[07.02.2020 9:56:32] [Info] Connection...
+[07.02.2020 9:56:32] [Info] Connect
+[07.02.2020 9:56:32] [Info] Login...
+[07.02.2020 9:56:37] [Info] Connection...
+[07.02.2020 9:56:37] [Info] Connect
+[07.02.2020 9:56:37] [Info] Login...
+[07.02.2020 9:56:42] [Info] Connection...
+[07.02.2020 9:56:42] [Info] Connect
+[07.02.2020 9:56:42] [Info] Login...
+[07.02.2020 9:58:56] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:58:56] [Error] Ссылка на объект не указывает на экземпляр объекта.
+[07.02.2020 9:59:33] [Info] Open Login Form
+[07.02.2020 9:59:33] [Info] Save Properties
+[07.02.2020 10:01:42] [Info] Connection...
+[07.02.2020 10:01:42] [Info] Connect
+[07.02.2020 10:01:42] [Info] Login...
+[07.02.2020 10:01:42] [Info] Login success
+[07.02.2020 10:01:42] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 10:01:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 10:02:05] [Info] Open Login Form
+[07.02.2020 10:02:05] [Info] Save Properties
+[07.02.2020 10:02:13] [Info] Connection...
+[07.02.2020 10:02:13] [Info] Connect
+[07.02.2020 10:02:13] [Info] Login...
+[07.02.2020 10:02:13] [Info] Login success
+[07.02.2020 10:02:13] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 10:02:13] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 10:02:26] [Info] Open Login Form
+[07.02.2020 10:02:26] [Info] Save Properties
+[07.02.2020 10:02:38] [Info] Connection...
+[07.02.2020 10:02:38] [Info] Connect
+[07.02.2020 10:02:38] [Info] Login...
+[07.02.2020 10:02:38] [Warring] 0|Проверте правельность введенных данных
+[07.02.2020 10:03:48] [Info] Open Login Form
+[07.02.2020 10:03:48] [Info] Save Properties
+[07.02.2020 10:03:52] [Info] Connection...
+[07.02.2020 10:03:52] [Info] Connect
+[07.02.2020 10:03:52] [Info] Login...
+[07.02.2020 10:03:52] [Warring] 0|Проверте правельность введенных данных
+[07.02.2020 10:03:59] [Info] Open Login Form
+[07.02.2020 10:04:00] [Info] Save Properties
+[07.02.2020 10:04:06] [Info] Connection...
+[07.02.2020 10:04:06] [Info] Connect
+[07.02.2020 10:04:06] [Info] Login...
+[07.02.2020 10:04:06] [Info] Login success
+[07.02.2020 10:04:06] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 10:04:06] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 10:06:38] [Info] Open Login Form
+[07.02.2020 10:06:38] [Info] Save Properties
+[07.02.2020 10:06:44] [Info] Connection...
+[07.02.2020 10:06:44] [Info] Connect
+[07.02.2020 10:06:44] [Info] Login...
+[07.02.2020 10:06:44] [Info] Login success
+[07.02.2020 10:06:44] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 10:06:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 10:32:10] [Info] Open Login Form
+[07.02.2020 10:32:10] [Info] Save Properties
+[07.02.2020 10:32:25] [Info] Connection...
+[07.02.2020 10:32:25] [Info] Connect
+[07.02.2020 10:32:25] [Info] Login...
+[07.02.2020 10:32:25] [Info] Login success
+[07.02.2020 10:32:25] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 10:32:25] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 10:32:31] sad
+[07.02.2020 10:33:52] [Info] Open Login Form
+[07.02.2020 10:33:52] [Info] Save Properties
+[07.02.2020 10:33:59] [Info] Connection...
+[07.02.2020 10:33:59] [Info] Connect
+[07.02.2020 10:33:59] [Info] Login...
+[07.02.2020 10:33:59] [Info] Login success
+[07.02.2020 10:33:59] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 10:33:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 10:33:59] [Info] UpdateLog: Connection true
+[07.02.2020 10:33:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:26:42] [Info] Open Login Form
+[07.02.2020 13:26:42] [Info] Save Properties
+[07.02.2020 13:26:54] [Info] Connection...
+[07.02.2020 13:26:54] [Info] Connect
+[07.02.2020 13:26:54] [Info] Login...
+[07.02.2020 13:26:54] [Info] Login success
+[07.02.2020 13:26:54] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:26:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:26:54] [Info] UpdateLog: Connection true
+[07.02.2020 13:26:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:25] [Info] Open Login Form
+[07.02.2020 13:28:25] [Info] Save Properties
+[07.02.2020 13:28:32] [Info] Connection...
+[07.02.2020 13:28:32] [Info] Connect
+[07.02.2020 13:28:32] [Info] Login...
+[07.02.2020 13:28:32] [Info] Login success
+[07.02.2020 13:28:32] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:28:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:32] [Info] UpdateLog: Connection true
+[07.02.2020 13:28:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:32] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:32] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:33] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:33] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:34] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:34] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:35] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:35] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:50] [Info] Open Login Form
+[07.02.2020 13:28:50] [Info] Save Properties
+[07.02.2020 13:28:56] [Info] Connection...
+[07.02.2020 13:28:56] [Info] Connect
+[07.02.2020 13:28:56] [Info] Login...
+[07.02.2020 13:28:56] [Info] Login success
+[07.02.2020 13:28:56] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:28:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:56] [Info] UpdateLog: Connection true
+[07.02.2020 13:28:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:28:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:28:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:29:00] [Info] UpdateLog: TestConnections
+[07.02.2020 13:29:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:29:47] [Info] Open Login Form
+[07.02.2020 13:29:47] [Info] Save Properties
+[07.02.2020 13:29:54] [Info] Connection...
+[07.02.2020 13:29:54] [Info] Connect
+[07.02.2020 13:29:54] [Info] Login...
+[07.02.2020 13:29:54] [Info] Login success
+[07.02.2020 13:29:54] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:29:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:29:54] [Info] UpdateLog: Connection true
+[07.02.2020 13:29:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:30:53] [Info] Open Login Form
+[07.02.2020 13:30:53] [Info] Save Properties
+[07.02.2020 13:30:59] [Info] Connection...
+[07.02.2020 13:30:59] [Info] Connect
+[07.02.2020 13:30:59] [Info] Login...
+[07.02.2020 13:30:59] [Info] Login success
+[07.02.2020 13:30:59] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:30:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:30:59] [Info] UpdateLog: Connection true
+[07.02.2020 13:30:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:24] [Info] Open Login Form
+[07.02.2020 13:34:24] [Info] Save Properties
+[07.02.2020 13:34:29] [Info] Connection...
+[07.02.2020 13:34:30] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[07.02.2020 13:34:35] [Info] Connection...
+[07.02.2020 13:34:35] [Info] Connect
+[07.02.2020 13:34:35] [Info] Login...
+[07.02.2020 13:34:35] [Info] Login success
+[07.02.2020 13:34:35] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:34:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:35] [Info] UpdateLog: Connection true
+[07.02.2020 13:34:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:38] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:38] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:39] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:39] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:39] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:39] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:40] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:40] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:41] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:41] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:42] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:42] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:43] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:43] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:44] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:44] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:45] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:45] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:46] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:46] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:46] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:46] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:47] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:47] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:48] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:48] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:49] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:49] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:50] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:50] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:51] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:51] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:52] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:52] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:53] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:53] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:54] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:54] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:55] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:55] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:34:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:34:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:00] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:00] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:01] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:01] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:02] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:02] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:03] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:03] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:04] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:04] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:05] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:35:05] [Info] UpdateLog: TestConnections
+[07.02.2020 13:35:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:31] [Info] Open Login Form
+[07.02.2020 13:36:31] [Info] Save Properties
+[07.02.2020 13:36:38] [Info] Connection...
+[07.02.2020 13:36:38] [Info] Connect
+[07.02.2020 13:36:38] [Info] Login...
+[07.02.2020 13:36:47] [Info] Login success
+[07.02.2020 13:36:47] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:36:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:47] [Info] UpdateLog: Connection true
+[07.02.2020 13:36:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:47] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:48] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:48] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:49] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:49] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:50] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:50] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:51] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:51] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:52] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:52] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:53] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:53] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:54] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:54] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:55] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:55] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:36:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:36:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:37:51] [Info] Open Login Form
+[07.02.2020 13:37:51] [Info] Save Properties
+[07.02.2020 13:38:01] [Info] Connection...
+[07.02.2020 13:38:01] [Info] Connect
+[07.02.2020 13:38:01] [Info] Login...
+[07.02.2020 13:38:01] [Info] Login success
+[07.02.2020 13:38:01] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:38:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:01] [Info] UpdateLog: Connection true
+[07.02.2020 13:38:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:01] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:02] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:02] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:03] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:03] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:04] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:33] [Info] Open Login Form
+[07.02.2020 13:38:33] [Info] Save Properties
+[07.02.2020 13:38:40] [Info] Connection...
+[07.02.2020 13:38:40] [Info] Connect
+[07.02.2020 13:38:40] [Info] Login...
+[07.02.2020 13:38:40] [Info] Login success
+[07.02.2020 13:38:40] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:38:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:40] [Info] UpdateLog: Connection true
+[07.02.2020 13:38:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:40] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:41] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:41] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:42] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:42] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:43] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:43] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:44] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:44] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:45] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:38:45] [Info] UpdateLog: TestConnections
+[07.02.2020 13:38:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:17] [Info] Open Login Form
+[07.02.2020 13:40:17] [Info] Save Properties
+[07.02.2020 13:40:27] [Info] Connection...
+[07.02.2020 13:40:27] [Info] Connect
+[07.02.2020 13:40:27] [Info] Login...
+[07.02.2020 13:40:27] [Info] Login success
+[07.02.2020 13:40:27] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:40:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:27] [Info] UpdateLog: Connection true
+[07.02.2020 13:40:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:27] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:28] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:28] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:29] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:29] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:30] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:30] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:31] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:31] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:32] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:33] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:34] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:35] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:36] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:37] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:37] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:38] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:38] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:45] [Info] Open Login Form
+[07.02.2020 13:40:45] [Info] Save Properties
+[07.02.2020 13:40:52] [Info] Connection...
+[07.02.2020 13:40:52] [Info] Connect
+[07.02.2020 13:40:52] [Info] Login...
+[07.02.2020 13:40:52] [Info] Login success
+[07.02.2020 13:40:52] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:40:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:52] [Info] UpdateLog: Connection true
+[07.02.2020 13:40:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:52] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:53] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:54] [Info] UpdateLog: TestConnections
+[07.02.2020 13:40:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:40:59] [Info] Open Login Form
+[07.02.2020 13:40:59] [Info] Save Properties
+[07.02.2020 13:41:05] [Info] Connection...
+[07.02.2020 13:41:05] [Info] Connect
+[07.02.2020 13:41:05] [Info] Login...
+[07.02.2020 13:41:05] [Info] Login success
+[07.02.2020 13:41:05] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:41:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:05] [Info] UpdateLog: Connection true
+[07.02.2020 13:41:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:06] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:06] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:07] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:07] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:08] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:08] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:20] [Info] Open Login Form
+[07.02.2020 13:41:20] [Info] Save Properties
+[07.02.2020 13:41:28] [Info] Connection...
+[07.02.2020 13:41:28] [Info] Connect
+[07.02.2020 13:41:28] [Info] Login...
+[07.02.2020 13:41:28] [Info] Login success
+[07.02.2020 13:41:28] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:41:28] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:28] [Info] UpdateLog: Connection true
+[07.02.2020 13:41:28] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:29] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:29] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:30] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:30] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:31] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:31] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:32] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:33] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:34] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:35] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:36] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:37] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:37] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:38] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:38] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:41:39] [Info] UpdateLog: TestConnections
+[07.02.2020 13:41:39] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:50:39] [Info] Open Login Form
+[07.02.2020 13:50:39] [Info] Save Properties
+[07.02.2020 13:51:11] [Info] Connection...
+[07.02.2020 13:51:11] [Info] Connect
+[07.02.2020 13:51:11] [Info] Login...
+[07.02.2020 13:59:26] [Info] Open Login Form
+[07.02.2020 13:59:26] [Info] Save Properties
+[07.02.2020 13:59:31] [Info] Connection...
+[07.02.2020 13:59:32] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[07.02.2020 13:59:36] [Info] Connection...
+[07.02.2020 13:59:36] [Info] Connect
+[07.02.2020 13:59:36] [Info] Login...
+[07.02.2020 13:59:36] [Info] Login success
+[07.02.2020 13:59:36] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 13:59:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:36] [Info] UpdateLog: Connection true
+[07.02.2020 13:59:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:40] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:41] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:42] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:43] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:44] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:45] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:46] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:46] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:47] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:48] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:49] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:50] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:51] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:52] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:53] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:54] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:55] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:56] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:57] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:58] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 13:59:59] [Info] UpdateLog: TestConnections
+[07.02.2020 13:59:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:00] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:01] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:02] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:03] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:04] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:05] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:06] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:06] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:07] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:07] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:08] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:08] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:09] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:09] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:10] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:10] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:11] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:11] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:12] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:12] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:13] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:13] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:14] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:14] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:15] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:15] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:16] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:16] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:17] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:17] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:18] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:18] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:19] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:19] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:20] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:20] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:21] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:21] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:22] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:22] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:23] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:23] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:24] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:24] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:25] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:25] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:26] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:26] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:27] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:28] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:28] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:29] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:29] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:31] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:31] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:32] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:33] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:34] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:35] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:36] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:37] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:37] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:38] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:38] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:39] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:39] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:40] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:41] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:42] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:43] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:44] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:45] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:46] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:46] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:47] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:48] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:49] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:50] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:51] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:52] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:53] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:54] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:55] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:56] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:57] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:58] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:00:59] [Info] UpdateLog: TestConnections
+[07.02.2020 14:00:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:00] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:01] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:02] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:03] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:04] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:05] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:06] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:06] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:07] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:07] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:08] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:08] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:01:09] [Info] UpdateLog: TestConnections
+[07.02.2020 14:01:09] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:23] [Info] Open Login Form
+[07.02.2020 14:05:23] [Info] Save Properties
+[07.02.2020 14:05:29] [Info] Connection...
+[07.02.2020 14:05:29] [Info] Connect
+[07.02.2020 14:05:29] [Info] Login...
+[07.02.2020 14:05:29] [Info] Login success
+[07.02.2020 14:05:29] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:05:29] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:29] [Info] UpdateLog: Connection true
+[07.02.2020 14:05:29] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:30] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:30] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:31] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:31] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:32] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:33] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:34] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:35] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:36] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:37] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:37] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:38] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:38] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:39] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:39] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:40] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:41] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:42] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:43] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:44] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:45] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:46] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:46] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:47] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:48] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:49] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:50] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:51] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:52] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:53] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:54] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:55] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:56] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:57] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:58] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:05:59] [Info] UpdateLog: TestConnections
+[07.02.2020 14:05:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:00] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:01] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:02] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:03] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:04] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:05] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:06] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:06] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:07] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:07] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:08] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:08] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:09] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:09] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:10] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:10] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:11] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:11] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:12] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:12] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:13] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:13] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:14] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:14] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:15] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:15] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:16] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:16] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:17] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:17] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:18] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:18] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:19] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:19] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:20] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:20] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:21] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:21] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:22] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:22] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:23] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:23] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:24] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:24] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:25] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:25] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:26] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:26] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:27] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:28] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:28] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:29] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:29] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:30] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:30] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:31] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:31] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:32] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:32] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:33] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:33] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:34] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:34] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:35] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:35] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:36] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:36] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:37] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:37] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:39] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:39] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:40] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:41] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:41] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:42] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:42] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:43] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:43] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:44] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:44] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:45] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:45] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:46] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:46] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:47] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:47] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:48] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:48] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:49] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:49] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:50] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:50] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:51] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:51] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:52] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:53] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:54] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:54] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:55] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:55] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:56] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:56] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:57] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:57] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:58] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:58] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:06:59] [Info] UpdateLog: TestConnections
+[07.02.2020 14:06:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:00] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:00] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:01] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:01] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:02] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:02] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:03] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:03] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:04] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:04] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:05] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:05] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:07:06] [Info] UpdateLog: TestConnections
+[07.02.2020 14:07:06] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:14:14] [Info] Open Login Form
+[07.02.2020 14:14:14] [Info] Save Properties
+[07.02.2020 14:14:23] [Info] Connection...
+[07.02.2020 14:14:23] [Info] Connect
+[07.02.2020 14:14:23] [Info] Login...
+[07.02.2020 14:14:23] [Info] Login success
+[07.02.2020 14:14:23] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:14:23] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:14:23] [Info] UpdateLog: Connection true
+[07.02.2020 14:14:23] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:14:34] [Info] Open Login Form
+[07.02.2020 14:14:34] [Info] Save Properties
+[07.02.2020 14:14:40] [Info] Connection...
+[07.02.2020 14:14:40] [Info] Connect
+[07.02.2020 14:14:40] [Info] Login...
+[07.02.2020 14:14:40] [Info] Login success
+[07.02.2020 14:14:40] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:14:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:14:40] [Info] UpdateLog: Connection true
+[07.02.2020 14:14:40] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:30:04] [Info] Open Login Form
+[07.02.2020 14:30:04] [Info] Save Properties
+[07.02.2020 14:30:10] [Info] Connection...
+[07.02.2020 14:30:10] [Info] Connect
+[07.02.2020 14:30:10] [Info] Login...
+[07.02.2020 14:30:10] [Info] Login success
+[07.02.2020 14:30:10] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:30:10] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:30:10] [Info] UpdateLog: Connection true
+[07.02.2020 14:30:10] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:31:16] [Info] Open Login Form
+[07.02.2020 14:31:16] [Info] Save Properties
+[07.02.2020 14:31:22] [Info] Connection...
+[07.02.2020 14:31:22] [Info] Connect
+[07.02.2020 14:31:22] [Info] Login...
+[07.02.2020 14:31:22] [Info] Login success
+[07.02.2020 14:31:22] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:31:22] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:31:22] [Info] UpdateLog: Connection true
+[07.02.2020 14:31:22] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:39:25] [Info] Open Login Form
+[07.02.2020 14:39:25] [Info] Save Properties
+[07.02.2020 14:39:59] [Info] Connection...
+[07.02.2020 14:39:59] [Info] Connect
+[07.02.2020 14:39:59] [Info] Login...
+[07.02.2020 14:39:59] [Info] Login success
+[07.02.2020 14:39:59] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:39:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:39:59] [Info] UpdateLog: Connection true
+[07.02.2020 14:39:59] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:53:20] [Info] Open Login Form
+[07.02.2020 14:53:20] [Info] Save Properties
+[07.02.2020 14:53:27] [Info] Connection...
+[07.02.2020 14:53:27] [Info] Connect
+[07.02.2020 14:53:27] [Info] Login...
+[07.02.2020 14:53:27] [Info] Login success
+[07.02.2020 14:53:27] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:53:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:53:27] [Info] UpdateLog: Connection true
+[07.02.2020 14:53:27] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:53:27] [Info] Administrator
+[07.02.2020 14:53:27] [Info] OnListClientAdd Administrator
+[07.02.2020 14:53:27] [Info] Testing
+[07.02.2020 14:53:27] [Info] OnListClientAdd Testing
+[07.02.2020 14:54:46] [Info] Open Login Form
+[07.02.2020 14:54:46] [Info] Save Properties
+[07.02.2020 14:54:52] [Info] Connection...
+[07.02.2020 14:54:52] [Info] Connect
+[07.02.2020 14:54:52] [Info] Login...
+[07.02.2020 14:54:52] [Info] Login success
+[07.02.2020 14:54:52] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 14:54:52] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:54:52] [Info] UpdateLog: Connection true
+[07.02.2020 14:54:53] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 14:54:53] [Info] Administrator
+[07.02.2020 14:54:53] [Info] OnListClientAdd Administrator
+[07.02.2020 14:54:53] [Info] Testing
+[07.02.2020 14:54:53] [Info] OnListClientAdd Testing
+[07.02.2020 15:00:01] [Info] Open Login Form
+[07.02.2020 15:00:01] [Info] Save Properties
+[07.02.2020 15:00:06] [Info] Connection...
+[07.02.2020 15:00:07] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[07.02.2020 15:00:15] [Info] Connection...
+[07.02.2020 15:00:15] [Info] Connect
+[07.02.2020 15:00:15] [Info] Login...
+[07.02.2020 15:00:15] [Info] Login success
+[07.02.2020 15:00:15] [Info] UpdateLog: Connected Successfully!
+[07.02.2020 15:00:15] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 15:00:15] [Info] UpdateLog: Connection true
+[07.02.2020 15:00:15] [Info] count: -1 endcount: -1 lenght: 1
+[07.02.2020 15:00:15] [Info] Administrator
+[07.02.2020 15:00:15] [Info] OnListClientAdd Administrator
+[07.02.2020 15:00:15] [Info] Testing
+[07.02.2020 15:00:15] [Info] OnListClientAdd Testing
