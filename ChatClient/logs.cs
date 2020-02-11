@@ -9,7 +9,16 @@ namespace ChatClient
 {
     static class Debug
     {
-        static readonly string _logPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "log.txt");
+        static readonly string _logPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, " log.txt"); 
+        public static void Init()
+        {
+            //if(!File.Exists(_logPath))
+            //{
+            //    FileStream fs = new FileStream(DateTime.Now + " log.txt", FileMode.CreateNew, FileAccess.Write);
+            //    fs.Close();
+            //}
+        }
+        
         /// <summary>
         /// Записывает лог в файл
         /// </summary>

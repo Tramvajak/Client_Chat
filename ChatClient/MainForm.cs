@@ -66,17 +66,18 @@ namespace ChatClient
                 {
                     string ss = srReceiver.ReadLine();
                     int count = ss.IndexOf(";");
-                    if (count > 0)
+                    int _count = ss.LastIndexOf("|");
+                    if (count > 0 && _count == -1)
                     {
                         mess = ss.Split(';');
-                        Debug.WriteLine(1,mess[0]);
+                        Debug.WriteLine(1, mess[0]);
                         if (mess[1] == "CMDclients")
                         {
-                            Debug.WriteLine(1,mess[1]+ " " +mess[0]);
+                            Debug.WriteLine(1, mess[1] + " " + mess[0]);
                             Invoke((MethodInvoker)delegate ()
                             {
                                 //OnCMDReiceve(mess[0]);
-                                
+
                             });
                         }
                         if (mess[1] == "Status")
@@ -85,7 +86,7 @@ namespace ChatClient
                             Invoke((MethodInvoker)delegate ()
                             {
                                 //ColorMessageAndView(mess[0]);
-                                
+
                             });
                         }
                         if (mess[1] == "OnChatRestart")
@@ -95,7 +96,7 @@ namespace ChatClient
                             Invoke((MethodInvoker)delegate ()
                             {
                                 //CloseConnection("Server Restart!");
-                                
+
 
                             });
                         }
@@ -133,12 +134,28 @@ namespace ChatClient
                                 OnClientsList(mess[0], "add");
                             });
                         }
-                        if (mess[1] == "OnListClientDell")
+                        if (mess[1] == "OnListClientOnline")// new
                         {
                             Debug.WriteLine(1, mess[1] + " " + mess[0]);
                             Invoke((MethodInvoker)delegate ()
                             {
-                                //OnClientsList(mess[0], "dell");
+                                OnClientsList(mess[0], "setOnline");
+                            });
+                        }
+                        if (mess[1] == "OnListClientOffline")// new
+                        {
+                            Debug.WriteLine(1, mess[1] + " " + mess[0]);
+                            Invoke((MethodInvoker)delegate ()
+                            {
+                                OnClientsList(mess[0], "setOffline");
+                            });
+                        }
+                        if (mess[1] == "OnCurrentUserFullName")//new command
+                        {
+                            Debug.WriteLine(1, mess[1] + " " + mess[0]);
+                            Invoke((MethodInvoker)delegate () 
+                            {
+                                OnCurrentUserName(mess[0]);
                             });
                         }
                         //Debug.WriteLineIf(mess[0].Length > 0, "1:" + mess[0]);
@@ -167,6 +184,13 @@ namespace ChatClient
                 }
             }
         }
+        private void OnCurrentUserName(string name)
+        {
+            UserName = name;
+            lbl_UserName.Text = UserName;
+            //MainForm fm = new MainForm();
+            //fm.Text = UserName;
+        }
         private void OnClientsList(string user, string key)
         {
             if(key=="add")
@@ -174,34 +198,59 @@ namespace ChatClient
                 if (!listB_Users.Items.Contains(user))
                     listB_Users.Items.Add(user);
             }
+            if(key=="setOnline")
+            {
+                for (int i = 0; i < listB_Users.Items.Count; i++)
+                {
+                    int indexfound = listB_Users.FindString(user);
+                    if(indexfound >= 0)
+                    {
+                        listB_Users.Items[indexfound] +=  "[Online]";
+                        return;
+                    }
+                }
+            }
+            if (key == "setOffline")
+            {
+                for (int i = 0; i < listB_Users.Items.Count; i++)
+                {
+                    if (listB_Users.Items.ToString().Contains(user))
+                    {
+                        listB_Users.Items[i] = listB_Users.Items[i].ToString().Replace("[Online]",String.Empty);
+                    }
+                }
+            }
         }
         private void UpdateLog(string message) // требует измененний
         {
-            int count = message.IndexOf(" says:");
-            int endcount = message.LastIndexOf(" says:");
-            int lenght = endcount - count + 1;
+            //message (Testing1;Testing2|фывфыв)
+            int count = message.IndexOf(";");
+            int endcount = message.LastIndexOf("|");
+            int lenght = message.Length;
             Debug.WriteLine(1, "UpdateLog: "+message);
             Debug.WriteLine(1,"count: " + count + " endcount: " + endcount + " lenght: " + lenght);
             if (count > 0)
             {
-                string index = message.Substring(0, count + 6);
-                string name = message.Substring(0, count);
-                string endindex = message.Substring(index.Length);
+                string[] msg = message.Split(';'); // [Name1];[Name2|message]
+                string[] _msg = msg[1].Split('|'); // [Name2]|[message]
+                string sendName = msg[0];
+                string recvName = _msg[0];
+                string _message = _msg[1];
 
-                if (name == UserName)
+                if (sendName == UserName)
                 {
                     richTextBox1.SelectionAlignment = HorizontalAlignment.Right;
-                    richTextBox1.AppendText(index, Color.Blue);
+                    richTextBox1.AppendText(sendName+" says: ", Color.Blue);
                 }
                 else
                 {
                     richTextBox1.SelectionAlignment = HorizontalAlignment.Left;
-                    richTextBox1.AppendText(index, Color.Red);
+                    richTextBox1.AppendText(recvName+ " says: ", Color.Red);
                     //Sound.play_sms();
                 }
-                richTextBox1.AppendText(endindex + "\r\n", ForeColor);
+                richTextBox1.AppendText(_message + "\r\n", ForeColor);
 
-                Debug.WriteLine("Name: " + name + " Messeage: " + endindex);
+                Debug.WriteLine("Name: " + msg[0] +" RecvName: " +_msg[0]+" Messeage: " + _msg[1]);
             }
             else
             {
@@ -245,29 +294,44 @@ namespace ChatClient
         }
         private void SendMessage()// требует измененний
         {
-            if (txtMessage.Lines.Length >= 1)
+            if(txtMessage.Lines.Length >= 1)
             {
-                string message = txtMessage.Text;
-                int count = message.IndexOf("/");
-                string[] mess = null;
-                if (message[0] == '/') // не используется
+                if (listB_Users.SelectedIndex != -1)
                 {
-                    mess = message.Split('/');
-                    swSender.WriteLine(mess[1] + "|OnCmd");
-                    Debug.WriteLine("OnCmd|" + mess[1]);
+                    string _message = String.Format(UserName + ";" +
+                        listB_Users.Items[listB_Users.SelectedIndex].ToString()+"|"+txtMessage.Text);
+                    swSender.WriteLine(_message);
+                    Debug.WriteLine(1,"Send Message: "+_message );
                     swSender.Flush();
+                    UpdateLog(_message);
                     txtMessage.Lines = null;
                 }
-                else
-                {
-
-                    swSender.WriteLine(txtMessage.Text);
-                    Debug.WriteLine(txtMessage.Text);
-                    swSender.Flush();
-                    txtMessage.Lines = null;
-                }
+                if (listB_Users.SelectedIndex == -1) MessageBox.Show("Выберите пользователя для отправки сообщения");
             }
-            txtMessage.Text = "";
+            else MessageBox.Show("Нельзя отправить пустое сообщение");
+            //if (txtMessage.Lines.Length >= 1)
+            //{
+            //    string message = txtMessage.Text;
+            //    int count = message.IndexOf("/");
+            //    string[] mess = null;
+            //    if (message[0] == '/') // не используется
+            //    {
+            //        mess = message.Split('/');
+            //        swSender.WriteLine(mess[1] + "|OnCmd");
+            //        Debug.WriteLine("OnCmd|" + mess[1]);
+            //        swSender.Flush();
+            //        txtMessage.Lines = null;
+            //    }
+            //    else
+            //    {
+
+            //        swSender.WriteLine(txtMessage.Text);
+            //        Debug.WriteLine(txtMessage.Text);
+            //        swSender.Flush();
+            //        txtMessage.Lines = null;
+            //    }
+            //}
+            //txtMessage.Text = "";
         }
 
         private void MainForm_FormClosed(object sender, FormClosedEventArgs e)

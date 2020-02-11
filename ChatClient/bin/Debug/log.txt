@@ -1309,3 +1309,845 @@
 [07.02.2020 15:00:15] [Info] OnListClientAdd Administrator
 [07.02.2020 15:00:15] [Info] Testing
 [07.02.2020 15:00:15] [Info] OnListClientAdd Testing
+[10.02.2020 11:22:07] [Info] Open Login Form
+[10.02.2020 11:22:07] [Info] Save Properties
+[10.02.2020 11:22:14] [Info] Connection...
+[10.02.2020 11:22:15] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[10.02.2020 11:22:20] [Info] Connection...
+[10.02.2020 11:22:20] [Info] Connect
+[10.02.2020 11:22:20] [Info] Login...
+[10.02.2020 11:22:20] [Info] Login success
+[10.02.2020 11:22:20] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 11:22:20] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 11:22:20] [Info] UpdateLog: Connection true
+[10.02.2020 11:22:20] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 11:22:20] [Info] Testing1
+[10.02.2020 11:22:20] [Info] OnListClientAdd Testing1
+[10.02.2020 11:22:20] [Info] Testing2
+[10.02.2020 11:22:20] [Info] OnListClientAdd Testing2
+[10.02.2020 11:22:20] [Info] Testing3
+[10.02.2020 11:22:20] [Info] OnListClientAdd Testing3
+[10.02.2020 11:22:20] [Info] Testing4
+[10.02.2020 11:22:20] [Info] OnListClientAdd Testing4
+[10.02.2020 11:22:20] [Info] Testing5
+[10.02.2020 11:22:20] [Info] OnListClientAdd Testing5
+[10.02.2020 12:17:44] [Info] Open Login Form
+[10.02.2020 12:17:44] [Info] Save Properties
+[10.02.2020 12:17:51] [Info] Connection...
+[10.02.2020 12:17:51] [Info] Connect
+[10.02.2020 12:17:51] [Info] Login...
+[10.02.2020 12:17:51] [Info] Login success
+[10.02.2020 12:17:51] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:17:51] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:17:51] [Info] UpdateLog: Connection true
+[10.02.2020 12:17:51] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:17:51] [Info] Testing1
+[10.02.2020 12:17:51] [Info] OnListClientAdd Testing1
+[10.02.2020 12:17:51] [Info] Testing2
+[10.02.2020 12:17:51] [Info] OnListClientAdd Testing2
+[10.02.2020 12:17:51] [Info] Testing3
+[10.02.2020 12:17:51] [Info] OnListClientAdd Testing3
+[10.02.2020 12:17:51] [Info] Testing4
+[10.02.2020 12:17:51] [Info] OnListClientAdd Testing4
+[10.02.2020 12:17:51] [Info] Testing5
+[10.02.2020 12:17:51] [Info] OnListClientAdd Testing5
+[10.02.2020 12:18:50] [Info] Open Login Form
+[10.02.2020 12:18:50] [Info] Save Properties
+[10.02.2020 12:18:59] [Info] Connection...
+[10.02.2020 12:18:59] [Info] Connect
+[10.02.2020 12:18:59] [Info] Login...
+[10.02.2020 12:18:59] [Info] Login success
+[10.02.2020 12:18:59] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:18:59] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:18:59] [Info] UpdateLog: Connection true
+[10.02.2020 12:18:59] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:18:59] [Info] Testing1
+[10.02.2020 12:18:59] [Info] OnListClientAdd Testing1
+[10.02.2020 12:18:59] [Info] Testing2
+[10.02.2020 12:18:59] [Info] OnListClientAdd Testing2
+[10.02.2020 12:18:59] [Info] Testing3
+[10.02.2020 12:18:59] [Info] OnListClientAdd Testing3
+[10.02.2020 12:18:59] [Info] Testing4
+[10.02.2020 12:18:59] [Info] OnListClientAdd Testing4
+[10.02.2020 12:18:59] [Info] Testing5
+[10.02.2020 12:18:59] [Info] OnListClientAdd Testing5
+[10.02.2020 12:20:42] [Info] Open Login Form
+[10.02.2020 12:20:42] [Info] Save Properties
+[10.02.2020 12:20:49] [Info] Connection...
+[10.02.2020 12:20:49] [Info] Connect
+[10.02.2020 12:20:49] [Info] Login...
+[10.02.2020 12:20:49] [Info] Login success
+[10.02.2020 12:20:49] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:20:49] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:20:49] [Info] UpdateLog: Connection true
+[10.02.2020 12:20:49] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:20:49] [Info] Testing1
+[10.02.2020 12:20:49] [Info] OnListClientAdd Testing1
+[10.02.2020 12:20:49] [Info] Testing2
+[10.02.2020 12:20:49] [Info] OnListClientAdd Testing2
+[10.02.2020 12:20:49] [Info] Testing3
+[10.02.2020 12:20:49] [Info] OnListClientAdd Testing3
+[10.02.2020 12:20:49] [Info] Testing4
+[10.02.2020 12:20:49] [Info] OnListClientAdd Testing4
+[10.02.2020 12:20:49] [Info] Testing5
+[10.02.2020 12:20:49] [Info] OnListClientAdd Testing5
+[10.02.2020 12:23:16] [Info] Open Login Form
+[10.02.2020 12:23:16] [Info] Save Properties
+[10.02.2020 12:23:23] [Info] Connection...
+[10.02.2020 12:23:23] [Info] Connect
+[10.02.2020 12:23:23] [Info] Login...
+[10.02.2020 12:23:23] [Info] Login success
+[10.02.2020 12:23:23] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:23:23] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:23:23] [Info] UpdateLog: Connection true
+[10.02.2020 12:23:23] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:23:23] [Info] Testing1
+[10.02.2020 12:23:23] [Info] OnListClientAdd Testing1
+[10.02.2020 12:23:23] [Info] Testing2
+[10.02.2020 12:23:23] [Info] OnListClientAdd Testing2
+[10.02.2020 12:23:23] [Info] Testing3
+[10.02.2020 12:23:23] [Info] OnListClientAdd Testing3
+[10.02.2020 12:23:23] [Info] Testing4
+[10.02.2020 12:23:23] [Info] OnListClientAdd Testing4
+[10.02.2020 12:23:23] [Info] Testing5
+[10.02.2020 12:23:23] [Info] OnListClientAdd Testing5
+[10.02.2020 12:24:03] [Info] Open Login Form
+[10.02.2020 12:24:03] [Info] Save Properties
+[10.02.2020 12:24:12] [Info] Connection...
+[10.02.2020 12:24:12] [Info] Connect
+[10.02.2020 12:24:12] [Info] Login...
+[10.02.2020 12:24:12] [Info] Login success
+[10.02.2020 12:24:13] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:24:13] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:24:13] [Info] UpdateLog: Connection true
+[10.02.2020 12:24:13] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:24:13] [Info] Testing1
+[10.02.2020 12:24:13] [Info] OnListClientAdd Testing1
+[10.02.2020 12:24:13] [Info] Testing2
+[10.02.2020 12:24:13] [Info] OnListClientAdd Testing2
+[10.02.2020 12:24:13] [Info] Testing3
+[10.02.2020 12:24:13] [Info] OnListClientAdd Testing3
+[10.02.2020 12:24:13] [Info] Testing4
+[10.02.2020 12:24:13] [Info] OnListClientAdd Testing4
+[10.02.2020 12:24:13] [Info] Testing5
+[10.02.2020 12:24:13] [Info] OnListClientAdd Testing5
+[10.02.2020 12:24:54] [Info] Open Login Form
+[10.02.2020 12:24:54] [Info] Save Properties
+[10.02.2020 12:28:36] [Info] Connection...
+[10.02.2020 12:28:36] [Info] Connect
+[10.02.2020 12:28:36] [Info] Login...
+[10.02.2020 12:28:36] [Info] Login success
+[10.02.2020 12:28:36] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:28:36] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:28:36] [Info] UpdateLog: Connection true
+[10.02.2020 12:28:36] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:28:36] [Info] Testing1
+[10.02.2020 12:28:36] [Info] OnListClientAdd Testing1
+[10.02.2020 12:28:36] [Info] Testing2
+[10.02.2020 12:28:36] [Info] OnListClientAdd Testing2
+[10.02.2020 12:28:36] [Info] Testing3
+[10.02.2020 12:28:36] [Info] OnListClientAdd Testing3
+[10.02.2020 12:28:36] [Info] Testing4
+[10.02.2020 12:28:36] [Info] OnListClientAdd Testing4
+[10.02.2020 12:28:36] [Info] Testing5
+[10.02.2020 12:28:36] [Info] OnListClientAdd Testing5
+[10.02.2020 12:30:01] [Info] Open Login Form
+[10.02.2020 12:30:01] [Info] Save Properties
+[10.02.2020 12:30:07] [Info] Connection...
+[10.02.2020 12:30:07] [Info] Connect
+[10.02.2020 12:30:07] [Info] Login...
+[10.02.2020 12:30:07] [Info] Login success
+[10.02.2020 12:30:07] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:30:07] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:30:07] [Info] UpdateLog: Connection true
+[10.02.2020 12:30:07] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:30:07] [Info] Testing1
+[10.02.2020 12:30:07] [Info] OnListClientAdd Testing1
+[10.02.2020 12:30:07] [Info] Testing2
+[10.02.2020 12:30:07] [Info] OnListClientAdd Testing2
+[10.02.2020 12:30:07] [Info] Testing3
+[10.02.2020 12:30:07] [Info] OnListClientAdd Testing3
+[10.02.2020 12:30:07] [Info] Testing4
+[10.02.2020 12:30:07] [Info] OnListClientAdd Testing4
+[10.02.2020 12:30:07] [Info] Testing5
+[10.02.2020 12:30:07] [Info] OnListClientAdd Testing5
+[10.02.2020 12:32:32] [Info] Open Login Form
+[10.02.2020 12:32:32] [Info] Save Properties
+[10.02.2020 12:32:39] [Info] Connection...
+[10.02.2020 12:32:39] [Info] Connect
+[10.02.2020 12:32:39] [Info] Login...
+[10.02.2020 12:32:39] [Info] Login success
+[10.02.2020 12:32:39] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:32:39] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:32:39] [Info] UpdateLog: Connection true
+[10.02.2020 12:32:39] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:32:39] [Info] Testing1
+[10.02.2020 12:32:39] [Info] OnListClientAdd Testing1
+[10.02.2020 12:32:39] [Info] Testing2
+[10.02.2020 12:32:39] [Info] OnListClientAdd Testing2
+[10.02.2020 12:32:39] [Info] Testing3
+[10.02.2020 12:32:39] [Info] OnListClientAdd Testing3
+[10.02.2020 12:32:39] [Info] Testing4
+[10.02.2020 12:32:39] [Info] OnListClientAdd Testing4
+[10.02.2020 12:32:39] [Info] Testing5
+[10.02.2020 12:32:39] [Info] OnListClientAdd Testing5
+[10.02.2020 12:34:46] [Info] Open Login Form
+[10.02.2020 12:34:47] [Info] Save Properties
+[10.02.2020 12:34:58] [Info] Connection...
+[10.02.2020 12:34:58] [Info] Connect
+[10.02.2020 12:34:58] [Info] Login...
+[10.02.2020 12:34:58] [Info] Login success
+[10.02.2020 12:34:58] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:34:58] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:34:58] [Info] UpdateLog: Connection true
+[10.02.2020 12:34:58] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:34:58] [Info] Testing1
+[10.02.2020 12:34:58] [Info] OnListClientAdd Testing1
+[10.02.2020 12:34:58] [Info] Testing2
+[10.02.2020 12:34:58] [Info] OnListClientAdd Testing2
+[10.02.2020 12:34:58] [Info] Testing3
+[10.02.2020 12:34:58] [Info] OnListClientAdd Testing3
+[10.02.2020 12:34:58] [Info] Testing4
+[10.02.2020 12:34:58] [Info] OnListClientAdd Testing4
+[10.02.2020 12:34:58] [Info] Testing5
+[10.02.2020 12:34:58] [Info] OnListClientAdd Testing5
+[10.02.2020 12:39:20] [Info] Open Login Form
+[10.02.2020 12:39:20] [Info] Save Properties
+[10.02.2020 12:39:48] [Info] Connection...
+[10.02.2020 12:39:48] [Info] Connect
+[10.02.2020 12:39:48] [Info] Login...
+[10.02.2020 12:39:48] [Info] Login success
+[10.02.2020 12:39:48] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:39:48] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:39:48] [Info] UpdateLog: Connection true
+[10.02.2020 12:39:48] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:39:48] [Info] Testing1
+[10.02.2020 12:39:48] [Info] OnListClientAdd Testing1
+[10.02.2020 12:39:48] [Info] Testing2
+[10.02.2020 12:39:48] [Info] OnListClientAdd Testing2
+[10.02.2020 12:39:48] [Info] Testing3
+[10.02.2020 12:39:48] [Info] OnListClientAdd Testing3
+[10.02.2020 12:39:48] [Info] Testing4
+[10.02.2020 12:39:48] [Info] OnListClientAdd Testing4
+[10.02.2020 12:39:48] [Info] Testing5
+[10.02.2020 12:39:48] [Info] OnListClientAdd Testing5
+[10.02.2020 12:40:45] [Info] Open Login Form
+[10.02.2020 12:40:45] [Info] Save Properties
+[10.02.2020 12:40:51] [Info] Connection...
+[10.02.2020 12:40:51] [Info] Connect
+[10.02.2020 12:40:51] [Info] Login...
+[10.02.2020 12:40:51] [Info] Login success
+[10.02.2020 12:40:51] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:40:51] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:40:51] [Info] UpdateLog: Connection true
+[10.02.2020 12:40:51] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:40:51] [Info] Testing1
+[10.02.2020 12:40:51] [Info] OnListClientAdd Testing1
+[10.02.2020 12:40:51] [Info] Testing2
+[10.02.2020 12:40:51] [Info] OnListClientAdd Testing2
+[10.02.2020 12:40:51] [Info] Testing3
+[10.02.2020 12:40:51] [Info] OnListClientAdd Testing3
+[10.02.2020 12:40:51] [Info] Testing4
+[10.02.2020 12:40:51] [Info] OnListClientAdd Testing4
+[10.02.2020 12:40:51] [Info] Testing5
+[10.02.2020 12:40:51] [Info] OnListClientAdd Testing5
+[10.02.2020 12:42:26] [Info] Open Login Form
+[10.02.2020 12:42:26] [Info] Save Properties
+[10.02.2020 12:42:34] [Info] Connection...
+[10.02.2020 12:42:34] [Info] Connect
+[10.02.2020 12:42:34] [Info] Login...
+[10.02.2020 12:42:34] [Info] Login success
+[10.02.2020 12:42:34] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:42:34] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:42:34] [Info] UpdateLog: Connection true
+[10.02.2020 12:42:34] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:42:34] [Info] Testing1
+[10.02.2020 12:42:34] [Info] OnListClientAdd Testing1
+[10.02.2020 12:42:34] [Info] Testing2
+[10.02.2020 12:42:34] [Info] OnListClientAdd Testing2
+[10.02.2020 12:42:34] [Info] Testing3
+[10.02.2020 12:42:34] [Info] OnListClientAdd Testing3
+[10.02.2020 12:42:34] [Info] Testing4
+[10.02.2020 12:42:34] [Info] OnListClientAdd Testing4
+[10.02.2020 12:42:34] [Info] Testing5
+[10.02.2020 12:42:34] [Info] OnListClientAdd Testing5
+[10.02.2020 12:42:37] [Info] Open Login Form
+[10.02.2020 12:42:37] [Info] Save Properties
+[10.02.2020 12:42:44] [Info] Connection...
+[10.02.2020 12:42:44] [Info] Connect
+[10.02.2020 12:42:44] [Info] Login...
+[10.02.2020 12:42:44] [Info] Login success
+[10.02.2020 12:42:44] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:42:44] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:42:44] [Info] UpdateLog: Connection true
+[10.02.2020 12:42:44] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:42:44] [Info] Testing1
+[10.02.2020 12:42:44] [Info] OnListClientAdd Testing1
+[10.02.2020 12:42:44] [Info] Testing2
+[10.02.2020 12:42:44] [Info] OnListClientAdd Testing2
+[10.02.2020 12:42:44] [Info] Testing3
+[10.02.2020 12:42:44] [Info] OnListClientAdd Testing3
+[10.02.2020 12:42:44] [Info] Testing4
+[10.02.2020 12:42:44] [Info] OnListClientAdd Testing4
+[10.02.2020 12:42:44] [Info] Testing5
+[10.02.2020 12:42:44] [Info] OnListClientAdd Testing5
+[10.02.2020 12:43:51] [Info] Open Login Form
+[10.02.2020 12:43:51] [Info] Save Properties
+[10.02.2020 12:43:57] [Info] Connection...
+[10.02.2020 12:43:58] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[10.02.2020 12:44:02] [Info] Connection...
+[10.02.2020 12:44:02] [Info] Connect
+[10.02.2020 12:44:02] [Info] Login...
+[10.02.2020 12:44:02] [Info] Login success
+[10.02.2020 12:44:02] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:44:02] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:44:02] [Info] UpdateLog: Connection true
+[10.02.2020 12:44:02] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:44:02] [Info] Testing1
+[10.02.2020 12:44:02] [Info] OnListClientAdd Testing1
+[10.02.2020 12:44:02] [Info] Testing2
+[10.02.2020 12:44:02] [Info] OnListClientAdd Testing2
+[10.02.2020 12:44:02] [Info] Testing3
+[10.02.2020 12:44:02] [Info] OnListClientAdd Testing3
+[10.02.2020 12:44:02] [Info] Testing4
+[10.02.2020 12:44:02] [Info] OnListClientAdd Testing4
+[10.02.2020 12:44:02] [Info] Testing5
+[10.02.2020 12:44:02] [Info] OnListClientAdd Testing5
+[10.02.2020 12:44:05] [Info] Open Login Form
+[10.02.2020 12:44:05] [Info] Save Properties
+[10.02.2020 12:44:12] [Info] Connection...
+[10.02.2020 12:44:12] [Info] Connect
+[10.02.2020 12:44:12] [Info] Login...
+[10.02.2020 12:44:12] [Info] Login success
+[10.02.2020 12:44:12] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:44:12] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:44:12] [Info] UpdateLog: Connection true
+[10.02.2020 12:44:12] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:44:12] [Info] Testing1
+[10.02.2020 12:44:12] [Info] OnListClientAdd Testing1
+[10.02.2020 12:44:12] [Info] Testing2
+[10.02.2020 12:44:12] [Info] OnListClientAdd Testing2
+[10.02.2020 12:44:12] [Info] Testing3
+[10.02.2020 12:44:12] [Info] OnListClientAdd Testing3
+[10.02.2020 12:44:12] [Info] Testing4
+[10.02.2020 12:44:12] [Info] OnListClientAdd Testing4
+[10.02.2020 12:44:12] [Info] Testing5
+[10.02.2020 12:44:12] [Info] OnListClientAdd Testing5
+[10.02.2020 12:49:13] [Info] Open Login Form
+[10.02.2020 12:49:13] [Info] Save Properties
+[10.02.2020 12:49:19] [Info] Connection...
+[10.02.2020 12:49:19] [Info] Connect
+[10.02.2020 12:49:19] [Info] Login...
+[10.02.2020 12:49:19] [Info] Login success
+[10.02.2020 12:49:19] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:49:19] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:49:19] [Info] UpdateLog: Connection true
+[10.02.2020 12:49:19] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:49:19] [Info] Testing1
+[10.02.2020 12:49:19] [Info] OnListClientAdd Testing1
+[10.02.2020 12:49:19] [Info] Testing2
+[10.02.2020 12:49:19] [Info] OnListClientAdd Testing2
+[10.02.2020 12:49:19] [Info] Testing3
+[10.02.2020 12:49:19] [Info] OnListClientAdd Testing3
+[10.02.2020 12:49:19] [Info] Testing4
+[10.02.2020 12:49:19] [Info] OnListClientAdd Testing4
+[10.02.2020 12:49:19] [Info] Testing5
+[10.02.2020 12:49:19] [Info] OnListClientAdd Testing5
+[10.02.2020 12:50:10] [Info] Open Login Form
+[10.02.2020 12:50:10] [Info] Save Properties
+[10.02.2020 12:50:19] [Info] Connection...
+[10.02.2020 12:50:19] [Info] Connect
+[10.02.2020 12:50:19] [Info] Login...
+[10.02.2020 12:50:19] [Info] Login success
+[10.02.2020 12:50:19] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:50:19] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:50:19] [Info] UpdateLog: Connection true
+[10.02.2020 12:50:19] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:50:19] [Info] Testing1
+[10.02.2020 12:50:19] [Info] OnListClientAdd Testing1
+[10.02.2020 12:50:19] [Info] Testing2
+[10.02.2020 12:50:19] [Info] OnListClientAdd Testing2
+[10.02.2020 12:50:19] [Info] Testing3
+[10.02.2020 12:50:19] [Info] OnListClientAdd Testing3
+[10.02.2020 12:50:19] [Info] Testing4
+[10.02.2020 12:50:19] [Info] OnListClientAdd Testing4
+[10.02.2020 12:50:19] [Info] Testing5
+[10.02.2020 12:50:19] [Info] OnListClientAdd Testing5
+[10.02.2020 12:51:09] [Info] Open Login Form
+[10.02.2020 12:51:09] [Info] Save Properties
+[10.02.2020 12:51:16] [Info] Connection...
+[10.02.2020 12:51:17] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[10.02.2020 12:51:24] [Info] Connection...
+[10.02.2020 12:51:24] [Info] Connect
+[10.02.2020 12:51:24] [Info] Login...
+[10.02.2020 12:51:24] [Info] Login success
+[10.02.2020 12:51:24] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 12:51:24] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:51:24] [Info] UpdateLog: Connection true
+[10.02.2020 12:51:24] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 12:51:24] [Info] Testing1
+[10.02.2020 12:51:24] [Info] OnListClientAdd Testing1
+[10.02.2020 12:51:24] [Info] Testing2
+[10.02.2020 12:51:24] [Info] OnListClientAdd Testing2
+[10.02.2020 12:51:24] [Info] Testing3
+[10.02.2020 12:51:24] [Info] OnListClientAdd Testing3
+[10.02.2020 12:51:24] [Info] Testing4
+[10.02.2020 12:51:24] [Info] OnListClientAdd Testing4
+[10.02.2020 12:51:24] [Info] Testing5
+[10.02.2020 12:51:24] [Info] OnListClientAdd Testing5
+[10.02.2020 14:08:25] [Info] Open Login Form
+[10.02.2020 14:08:25] [Info] Save Properties
+[10.02.2020 14:08:31] [Info] Connection...
+[10.02.2020 14:08:32] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[10.02.2020 14:08:37] [Info] Connection...
+[10.02.2020 14:08:37] [Info] Connect
+[10.02.2020 14:08:37] [Info] Login...
+[10.02.2020 14:08:37] [Info] Login success
+[10.02.2020 14:08:37] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:08:37] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:08:37] [Info] UpdateLog: Connection true
+[10.02.2020 14:08:37] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:09:38] [Info] Open Login Form
+[10.02.2020 14:09:38] [Info] Save Properties
+[10.02.2020 14:09:45] [Info] Connection...
+[10.02.2020 14:09:45] [Info] Connect
+[10.02.2020 14:09:45] [Info] Login...
+[10.02.2020 14:09:45] [Info] Login success
+[10.02.2020 14:09:45] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:09:45] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:09:45] [Info] UpdateLog: Connection true
+[10.02.2020 14:09:45] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:09:45] [Info] Testing1
+[10.02.2020 14:09:45] [Info] OnListClientAdd Testing1
+[10.02.2020 14:09:45] [Info] Testing2
+[10.02.2020 14:09:45] [Info] OnListClientAdd Testing2
+[10.02.2020 14:09:45] [Info] Testing3
+[10.02.2020 14:09:45] [Info] OnListClientAdd Testing3
+[10.02.2020 14:09:45] [Info] Testing4
+[10.02.2020 14:09:45] [Info] OnListClientAdd Testing4
+[10.02.2020 14:09:45] [Info] Testing5
+[10.02.2020 14:09:45] [Info] OnListClientAdd Testing5
+[10.02.2020 14:10:36] [Info] Open Login Form
+[10.02.2020 14:10:36] [Info] Save Properties
+[10.02.2020 14:10:42] [Info] Connection...
+[10.02.2020 14:10:42] [Info] Connect
+[10.02.2020 14:10:42] [Info] Login...
+[10.02.2020 14:10:42] [Info] Login success
+[10.02.2020 14:10:42] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:10:42] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:10:42] [Info] UpdateLog: Connection true
+[10.02.2020 14:10:42] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:10:42] [Info] Testing1
+[10.02.2020 14:10:42] [Info] OnListClientAdd Testing1
+[10.02.2020 14:10:42] [Info] Testing2
+[10.02.2020 14:10:42] [Info] OnListClientAdd Testing2
+[10.02.2020 14:10:42] [Info] Testing3
+[10.02.2020 14:10:42] [Info] OnListClientAdd Testing3
+[10.02.2020 14:10:42] [Info] Testing4
+[10.02.2020 14:10:42] [Info] OnListClientAdd Testing4
+[10.02.2020 14:10:42] [Info] Testing5
+[10.02.2020 14:10:42] [Info] OnListClientAdd Testing5
+[10.02.2020 14:11:53] [Info] Open Login Form
+[10.02.2020 14:11:53] [Info] Save Properties
+[10.02.2020 14:12:01] [Info] Connection...
+[10.02.2020 14:12:01] [Info] Connect
+[10.02.2020 14:12:01] [Info] Login...
+[10.02.2020 14:12:02] [Info] Login success
+[10.02.2020 14:12:02] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:12:02] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:12:02] [Info] UpdateLog: Connection true
+[10.02.2020 14:12:02] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:12:13] [Info] Testing1
+[10.02.2020 14:12:13] [Info] OnListClientAdd Testing1
+[10.02.2020 14:12:13] [Info] Testing2
+[10.02.2020 14:12:13] [Info] OnListClientAdd Testing2
+[10.02.2020 14:12:13] [Info] Testing3
+[10.02.2020 14:12:13] [Info] OnListClientAdd Testing3
+[10.02.2020 14:12:13] [Info] Testing4
+[10.02.2020 14:12:13] [Info] OnListClientAdd Testing4
+[10.02.2020 14:12:13] [Info] Testing5
+[10.02.2020 14:12:13] [Info] OnListClientAdd Testing5
+[10.02.2020 14:13:53] [Info] Open Login Form
+[10.02.2020 14:13:53] [Info] Save Properties
+[10.02.2020 14:13:59] [Info] Connection...
+[10.02.2020 14:14:00] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[10.02.2020 14:14:08] [Info] Connection...
+[10.02.2020 14:14:08] [Info] Connect
+[10.02.2020 14:14:08] [Info] Login...
+[10.02.2020 14:14:08] [Info] Login success
+[10.02.2020 14:14:08] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:14:08] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:14:08] [Info] UpdateLog: Connection true
+[10.02.2020 14:14:08] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:14:11] [Info] Testing1
+[10.02.2020 14:14:11] [Info] OnListClientAdd Testing1
+[10.02.2020 14:14:11] [Info] Testing2
+[10.02.2020 14:14:11] [Info] OnListClientAdd Testing2
+[10.02.2020 14:14:11] [Info] Testing3
+[10.02.2020 14:14:11] [Info] OnListClientAdd Testing3
+[10.02.2020 14:14:11] [Info] Testing4
+[10.02.2020 14:14:11] [Info] OnListClientAdd Testing4
+[10.02.2020 14:14:11] [Info] Testing5
+[10.02.2020 14:14:11] [Info] OnListClientAdd Testing5
+[10.02.2020 14:15:59] [Info] Open Login Form
+[10.02.2020 14:15:59] [Info] Save Properties
+[10.02.2020 14:16:05] [Info] Connection...
+[10.02.2020 14:16:05] [Info] Connect
+[10.02.2020 14:16:05] [Info] Login...
+[10.02.2020 14:16:05] [Info] Login success
+[10.02.2020 14:16:05] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:16:05] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:16:05] [Info] UpdateLog: Connection true
+[10.02.2020 14:16:05] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:16:06] [Info] Testing1
+[10.02.2020 14:16:06] [Info] OnListClientAdd Testing1
+[10.02.2020 14:16:06] [Info] Testing2
+[10.02.2020 14:16:06] [Info] OnListClientAdd Testing2
+[10.02.2020 14:16:06] [Info] Testing3
+[10.02.2020 14:16:06] [Info] OnListClientAdd Testing3
+[10.02.2020 14:16:06] [Info] Testing4
+[10.02.2020 14:16:06] [Info] OnListClientAdd Testing4
+[10.02.2020 14:16:06] [Info] Testing5
+[10.02.2020 14:16:06] [Info] OnListClientAdd Testing5
+[10.02.2020 14:19:22] [Info] Open Login Form
+[10.02.2020 14:19:22] [Info] Save Properties
+[10.02.2020 14:19:33] [Info] Connection...
+[10.02.2020 14:19:33] [Info] Connect
+[10.02.2020 14:19:33] [Info] Login...
+[10.02.2020 14:19:33] [Info] Login success
+[10.02.2020 14:19:33] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:19:33] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:19:33] [Info] UpdateLog: Connection true
+[10.02.2020 14:19:33] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:19:33] [Info] Testing1
+[10.02.2020 14:19:33] [Info] OnListClientAdd Testing1
+[10.02.2020 14:19:33] [Info] Testing2
+[10.02.2020 14:19:33] [Info] OnListClientAdd Testing2
+[10.02.2020 14:19:33] [Info] Testing3
+[10.02.2020 14:19:33] [Info] OnListClientAdd Testing3
+[10.02.2020 14:19:33] [Info] Testing4
+[10.02.2020 14:19:33] [Info] OnListClientAdd Testing4
+[10.02.2020 14:19:33] [Info] Testing5
+[10.02.2020 14:19:33] [Info] OnListClientAdd Testing5
+[10.02.2020 14:25:18] [Info] Open Login Form
+[10.02.2020 14:25:18] [Info] Save Properties
+[10.02.2020 14:25:25] [Info] Connection...
+[10.02.2020 14:25:25] [Info] Connect
+[10.02.2020 14:25:25] [Info] Login...
+[10.02.2020 14:25:25] [Info] Login success
+[10.02.2020 14:25:25] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:25:25] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:25:25] [Info] UpdateLog: Connection true
+[10.02.2020 14:25:25] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:25:25] [Info] Testing1
+[10.02.2020 14:25:25] [Info] OnListClientAdd Testing1
+[10.02.2020 14:25:25] [Info] Testing2
+[10.02.2020 14:25:25] [Info] OnListClientAdd Testing2
+[10.02.2020 14:25:25] [Info] Testing3
+[10.02.2020 14:25:25] [Info] OnListClientAdd Testing3
+[10.02.2020 14:25:25] [Info] Testing4
+[10.02.2020 14:25:25] [Info] OnListClientAdd Testing4
+[10.02.2020 14:25:25] [Info] Testing5
+[10.02.2020 14:25:25] [Info] OnListClientAdd Testing5
+[10.02.2020 14:25:38] [Info] Open Login Form
+[10.02.2020 14:25:38] [Info] Save Properties
+[10.02.2020 14:25:44] [Info] Connection...
+[10.02.2020 14:25:44] [Info] Connect
+[10.02.2020 14:25:44] [Info] Login...
+[10.02.2020 14:25:44] [Info] Login success
+[10.02.2020 14:25:44] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:25:44] [Info] UpdateLog: Connection true
+[10.02.2020 14:25:44] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:25:44] [Info] Testing1
+[10.02.2020 14:25:44] [Info] OnListClientAdd Testing1
+[10.02.2020 14:25:44] [Info] Testing2
+[10.02.2020 14:25:44] [Info] OnListClientAdd Testing2
+[10.02.2020 14:25:44] [Info] Testing3
+[10.02.2020 14:25:44] [Info] OnListClientAdd Testing3
+[10.02.2020 14:25:44] [Info] Testing4
+[10.02.2020 14:25:44] [Info] OnListClientAdd Testing4
+[10.02.2020 14:25:44] [Info] Testing5
+[10.02.2020 14:25:44] [Info] OnListClientAdd Testing5
+[10.02.2020 14:25:46] [Info] Open Login Form
+[10.02.2020 14:25:46] [Info] Save Properties
+[10.02.2020 14:25:52] [Info] Connection...
+[10.02.2020 14:25:52] [Info] Connect
+[10.02.2020 14:25:52] [Info] Login...
+[10.02.2020 14:25:52] [Info] Login success
+[10.02.2020 14:25:52] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:25:52] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:25:52] [Info] UpdateLog: Connection true
+[10.02.2020 14:25:52] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:25:52] [Info] Testing1
+[10.02.2020 14:25:52] [Info] OnListClientAdd Testing1
+[10.02.2020 14:25:52] [Info] Testing2
+[10.02.2020 14:25:52] [Info] OnListClientAdd Testing2
+[10.02.2020 14:25:52] [Info] Testing3
+[10.02.2020 14:25:52] [Info] OnListClientAdd Testing3
+[10.02.2020 14:25:52] [Info] Testing4
+[10.02.2020 14:25:52] [Info] OnListClientAdd Testing4
+[10.02.2020 14:25:52] [Info] Testing5
+[10.02.2020 14:25:52] [Info] OnListClientAdd Testing5
+[10.02.2020 14:25:57] [Info] Open Login Form
+[10.02.2020 14:25:57] [Info] Save Properties
+[10.02.2020 14:26:03] [Info] Connection...
+[10.02.2020 14:26:03] [Info] Connect
+[10.02.2020 14:26:03] [Info] Login...
+[10.02.2020 14:26:03] [Info] Login success
+[10.02.2020 14:26:03] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:26:03] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:26:03] [Info] UpdateLog: Connection true
+[10.02.2020 14:26:03] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:26:03] [Info] Testing1
+[10.02.2020 14:26:03] [Info] OnListClientAdd Testing1
+[10.02.2020 14:26:03] [Info] Testing2
+[10.02.2020 14:26:03] [Info] OnListClientAdd Testing2
+[10.02.2020 14:26:03] [Info] Testing3
+[10.02.2020 14:26:03] [Info] OnListClientAdd Testing3
+[10.02.2020 14:26:03] [Info] Testing4
+[10.02.2020 14:26:03] [Info] OnListClientAdd Testing4
+[10.02.2020 14:26:03] [Info] Testing5
+[10.02.2020 14:26:03] [Info] OnListClientAdd Testing5
+[10.02.2020 14:29:09] [Info] Open Login Form
+[10.02.2020 14:29:09] [Info] Save Properties
+[10.02.2020 14:29:14] [Info] Connection...
+[10.02.2020 14:29:15] [Error] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:7770
+[10.02.2020 14:29:19] [Info] Connection...
+[10.02.2020 14:29:19] [Info] Connect
+[10.02.2020 14:29:19] [Info] Login...
+[10.02.2020 14:29:19] [Info] Login success
+[10.02.2020 14:29:19] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:29:19] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:29:19] [Info] UpdateLog: Connection true
+[10.02.2020 14:29:19] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:29:19] [Info] Testing1
+[10.02.2020 14:29:19] [Info] OnListClientAdd Testing1
+[10.02.2020 14:29:19] [Info] Testing2
+[10.02.2020 14:29:19] [Info] OnListClientAdd Testing2
+[10.02.2020 14:29:19] [Info] Testing3
+[10.02.2020 14:29:19] [Info] OnListClientAdd Testing3
+[10.02.2020 14:29:19] [Info] Testing4
+[10.02.2020 14:29:19] [Info] OnListClientAdd Testing4
+[10.02.2020 14:29:19] [Info] Testing5
+[10.02.2020 14:29:19] [Info] OnListClientAdd Testing5
+[10.02.2020 14:29:23] [Info] Open Login Form
+[10.02.2020 14:29:23] [Info] Save Properties
+[10.02.2020 14:29:30] [Info] Connection...
+[10.02.2020 14:29:30] [Info] Connect
+[10.02.2020 14:29:30] [Info] Login...
+[10.02.2020 14:29:30] [Info] Login success
+[10.02.2020 14:29:30] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:29:30] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:29:30] [Info] UpdateLog: Connection true
+[10.02.2020 14:29:30] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:29:30] [Info] Testing1
+[10.02.2020 14:29:30] [Info] OnListClientAdd Testing1
+[10.02.2020 14:29:30] [Info] Testing2
+[10.02.2020 14:29:30] [Info] OnListClientAdd Testing2
+[10.02.2020 14:29:30] [Info] Testing3
+[10.02.2020 14:29:30] [Info] OnListClientAdd Testing3
+[10.02.2020 14:29:30] [Info] Testing4
+[10.02.2020 14:29:30] [Info] OnListClientAdd Testing4
+[10.02.2020 14:29:30] [Info] Testing5
+[10.02.2020 14:29:30] [Info] OnListClientAdd Testing5
+[10.02.2020 14:29:33] [Info] Open Login Form
+[10.02.2020 14:29:33] [Info] Save Properties
+[10.02.2020 14:29:39] [Info] Connection...
+[10.02.2020 14:29:39] [Info] Connect
+[10.02.2020 14:29:39] [Info] Login...
+[10.02.2020 14:29:39] [Info] Login success
+[10.02.2020 14:29:39] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:29:39] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:29:39] [Info] UpdateLog: Connection true
+[10.02.2020 14:29:39] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:29:39] [Info] Testing1
+[10.02.2020 14:29:39] [Info] OnListClientAdd Testing1
+[10.02.2020 14:29:39] [Info] Testing2
+[10.02.2020 14:29:39] [Info] OnListClientAdd Testing2
+[10.02.2020 14:29:39] [Info] Testing3
+[10.02.2020 14:29:39] [Info] OnListClientAdd Testing3
+[10.02.2020 14:29:39] [Info] Testing4
+[10.02.2020 14:29:39] [Info] OnListClientAdd Testing4
+[10.02.2020 14:29:39] [Info] Testing5
+[10.02.2020 14:29:39] [Info] OnListClientAdd Testing5
+[10.02.2020 14:33:59] [Info] Open Login Form
+[10.02.2020 14:33:59] [Info] Save Properties
+[10.02.2020 14:34:04] [Info] Connection...
+[10.02.2020 14:34:04] [Info] Connect
+[10.02.2020 14:34:04] [Info] Login...
+[10.02.2020 14:34:04] [Info] Login success
+[10.02.2020 14:34:04] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:34:04] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:34:04] [Info] UpdateLog: Connection true
+[10.02.2020 14:34:04] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:34:04] [Info] Testing1
+[10.02.2020 14:34:04] [Info] OnListClientAdd Testing1
+[10.02.2020 14:34:04] [Info] Testing2
+[10.02.2020 14:34:04] [Info] OnListClientAdd Testing2
+[10.02.2020 14:34:04] [Info] Testing3
+[10.02.2020 14:34:04] [Info] OnListClientAdd Testing3
+[10.02.2020 14:34:04] [Info] Testing4
+[10.02.2020 14:34:04] [Info] OnListClientAdd Testing4
+[10.02.2020 14:34:04] [Info] Testing5
+[10.02.2020 14:34:04] [Info] OnListClientAdd Testing5
+[10.02.2020 14:34:08] [Info] Open Login Form
+[10.02.2020 14:34:08] [Info] Save Properties
+[10.02.2020 14:34:16] [Info] Connection...
+[10.02.2020 14:34:16] [Info] Connect
+[10.02.2020 14:34:16] [Info] Login...
+[10.02.2020 14:34:16] [Info] Login success
+[10.02.2020 14:34:16] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:34:16] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:34:16] [Info] UpdateLog: Connection true
+[10.02.2020 14:34:16] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:34:16] [Info] Testing1
+[10.02.2020 14:34:16] [Info] OnListClientAdd Testing1
+[10.02.2020 14:34:16] [Info] Testing2
+[10.02.2020 14:34:16] [Info] OnListClientAdd Testing2
+[10.02.2020 14:34:16] [Info] Testing3
+[10.02.2020 14:34:16] [Info] OnListClientAdd Testing3
+[10.02.2020 14:34:16] [Info] Testing4
+[10.02.2020 14:34:16] [Info] OnListClientAdd Testing4
+[10.02.2020 14:34:16] [Info] Testing5
+[10.02.2020 14:34:16] [Info] OnListClientAdd Testing5
+[10.02.2020 14:34:17] [Info] Open Login Form
+[10.02.2020 14:34:18] [Info] Save Properties
+[10.02.2020 14:34:22] [Info] Connection...
+[10.02.2020 14:34:22] [Info] Connect
+[10.02.2020 14:34:22] [Info] Login...
+[10.02.2020 14:34:22] [Warring] 0|Проверте правельность введенных данных
+[10.02.2020 14:34:27] [Info] Connection...
+[10.02.2020 14:34:27] [Info] Connect
+[10.02.2020 14:34:27] [Info] Login...
+[10.02.2020 14:34:27] [Info] Login success
+[10.02.2020 14:34:27] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:34:27] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:34:27] [Info] UpdateLog: Connection true
+[10.02.2020 14:34:27] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:34:27] [Info] Testing1
+[10.02.2020 14:34:27] [Info] OnListClientAdd Testing1
+[10.02.2020 14:34:27] [Info] Testing2
+[10.02.2020 14:34:27] [Info] OnListClientAdd Testing2
+[10.02.2020 14:34:27] [Info] Testing3
+[10.02.2020 14:34:27] [Info] OnListClientAdd Testing3
+[10.02.2020 14:34:27] [Info] Testing4
+[10.02.2020 14:34:27] [Info] OnListClientAdd Testing4
+[10.02.2020 14:34:27] [Info] Testing5
+[10.02.2020 14:34:27] [Info] OnListClientAdd Testing5
+[10.02.2020 14:44:59] [Info] Open Login Form
+[10.02.2020 14:44:59] [Info] Save Properties
+[10.02.2020 14:45:04] [Info] Connection...
+[10.02.2020 14:45:04] [Info] Connect
+[10.02.2020 14:45:04] [Info] Login...
+[10.02.2020 14:45:04] [Info] Login success
+[10.02.2020 14:45:04] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:45:04] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:45:04] [Info] UpdateLog: Connection true
+[10.02.2020 14:45:04] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:45:04] [Info] Testing1
+[10.02.2020 14:45:04] [Info] OnListClientAdd Testing1
+[10.02.2020 14:45:04] [Info] Testing2
+[10.02.2020 14:45:04] [Info] OnListClientAdd Testing2
+[10.02.2020 14:45:04] [Info] Testing3
+[10.02.2020 14:45:04] [Info] OnListClientAdd Testing3
+[10.02.2020 14:45:04] [Info] Testing4
+[10.02.2020 14:45:04] [Info] OnListClientAdd Testing4
+[10.02.2020 14:45:04] [Info] Testing5
+[10.02.2020 14:45:04] [Info] OnListClientAdd Testing5
+[10.02.2020 14:45:15] [Info] Open Login Form
+[10.02.2020 14:45:15] [Info] Save Properties
+[10.02.2020 14:45:20] [Info] Connection...
+[10.02.2020 14:45:20] [Info] Connect
+[10.02.2020 14:45:20] [Info] Login...
+[10.02.2020 14:45:20] [Info] Login success
+[10.02.2020 14:45:20] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:45:20] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:45:20] [Info] UpdateLog: Connection true
+[10.02.2020 14:45:20] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:45:20] [Info] Testing1
+[10.02.2020 14:45:20] [Info] OnListClientAdd Testing1
+[10.02.2020 14:45:20] [Info] Testing2
+[10.02.2020 14:45:20] [Info] OnListClientAdd Testing2
+[10.02.2020 14:45:20] [Info] Testing3
+[10.02.2020 14:45:20] [Info] OnListClientAdd Testing3
+[10.02.2020 14:45:20] [Info] Testing4
+[10.02.2020 14:45:20] [Info] OnListClientAdd Testing4
+[10.02.2020 14:45:20] [Info] Testing5
+[10.02.2020 14:45:20] [Info] OnListClientAdd Testing5
+[10.02.2020 14:45:22] [Info] Open Login Form
+[10.02.2020 14:45:22] [Info] Save Properties
+[10.02.2020 14:45:28] [Info] Connection...
+[10.02.2020 14:45:28] [Info] Connect
+[10.02.2020 14:45:28] [Info] Login...
+[10.02.2020 14:45:28] [Info] Login success
+[10.02.2020 14:45:28] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 14:45:28] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:45:28] [Info] UpdateLog: Connection true
+[10.02.2020 14:45:28] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 14:45:28] [Info] Testing1
+[10.02.2020 14:45:28] [Info] OnListClientAdd Testing1
+[10.02.2020 14:45:28] [Info] Testing2
+[10.02.2020 14:45:28] [Info] OnListClientAdd Testing2
+[10.02.2020 14:45:28] [Info] Testing3
+[10.02.2020 14:45:28] [Info] OnListClientAdd Testing3
+[10.02.2020 14:45:28] [Info] Testing4
+[10.02.2020 14:45:28] [Info] OnListClientAdd Testing4
+[10.02.2020 14:45:28] [Info] Testing5
+[10.02.2020 14:45:28] [Info] OnListClientAdd Testing5
+[10.02.2020 15:03:30] [Info] Open Login Form
+[10.02.2020 15:03:30] [Info] Save Properties
+[10.02.2020 15:03:58] [Info] Open Login Form
+[10.02.2020 15:03:58] [Info] Save Properties
+[10.02.2020 15:04:19] [Info] Connection...
+[10.02.2020 15:04:19] [Info] Connect
+[10.02.2020 15:04:19] [Info] Login...
+[10.02.2020 15:04:19] [Info] Login success
+[10.02.2020 15:04:20] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 15:04:20] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 15:04:20] [Info] UpdateLog: Connection true
+[10.02.2020 15:04:20] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 15:04:26] [Info] Testing1
+[10.02.2020 15:04:26] [Info] OnListClientAdd Testing1
+[10.02.2020 15:04:26] [Info] Testing2
+[10.02.2020 15:04:26] [Info] OnListClientAdd Testing2
+[10.02.2020 15:04:26] [Info] Testing3
+[10.02.2020 15:04:26] [Info] OnListClientAdd Testing3
+[10.02.2020 15:04:26] [Info] Testing4
+[10.02.2020 15:04:26] [Info] OnListClientAdd Testing4
+[10.02.2020 15:04:26] [Info] Testing5
+[10.02.2020 15:04:26] [Info] OnListClientAdd Testing5
+[10.02.2020 15:24:05] [Info] Open Login Form
+[10.02.2020 15:24:05] [Info] Save Properties
+[10.02.2020 15:24:18] [Info] Connection...
+[10.02.2020 15:24:18] [Info] Connect
+[10.02.2020 15:24:18] [Info] Login...
+[10.02.2020 15:24:18] [Warring] 0|This username already exists.
+[10.02.2020 15:29:25] [Info] Connection...
+[10.02.2020 15:29:25] [Info] Connect
+[10.02.2020 15:29:25] [Info] Login...
+[10.02.2020 15:29:51] [Warring] 0|This username already exists.
+[10.02.2020 15:30:27] [Info] Connection...
+[10.02.2020 15:30:27] [Info] Connect
+[10.02.2020 15:30:27] [Info] Login...
+[10.02.2020 15:30:36] [Info] Login success
+[10.02.2020 15:30:36] [Info] UpdateLog: Connected Successfully!
+[10.02.2020 15:30:36] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 15:30:37] [Info] UpdateLog: Connection true
+[10.02.2020 15:30:37] [Info] count: -1 endcount: -1 lenght: 1
+[10.02.2020 15:30:37] [Info] Testing1
+[10.02.2020 15:30:37] [Info] OnListClientAdd Testing1
+[10.02.2020 15:30:37] [Info] Testing2
+[10.02.2020 15:30:37] [Info] OnListClientAdd Testing2
+[10.02.2020 15:30:37] [Info] Testing3
+[10.02.2020 15:30:37] [Info] OnListClientAdd Testing3
+[10.02.2020 15:30:37] [Info] Testing4
+[10.02.2020 15:30:37] [Info] OnListClientAdd Testing4
+[10.02.2020 15:30:37] [Info] Testing5
+[10.02.2020 15:30:37] [Info] OnListClientAdd Testing5
+[10.02.2020 15:30:44] [Info] Open Login Form
+[10.02.2020 15:30:44] [Info] Save Properties
+[10.02.2020 15:30:51] [Info] Connection...
+[10.02.2020 15:30:51] [Info] Connect
+[10.02.2020 15:30:51] [Info] Login...
+[10.02.2020 15:31:02] [Warring] 0|This username already exists.

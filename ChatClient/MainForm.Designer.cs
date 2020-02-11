@@ -36,6 +36,7 @@
             this.lbl_ChatTo = new System.Windows.Forms.Label();
             this.txtMessage = new System.Windows.Forms.TextBox();
             this.listB_Users = new System.Windows.Forms.ListBox();
+            this.lbl_UserName = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -107,11 +108,21 @@
             this.listB_Users.TabIndex = 7;
             this.listB_Users.SelectedIndexChanged += new System.EventHandler(this.listB_Users_SelectedIndexChanged);
             // 
+            // lbl_UserName
+            // 
+            this.lbl_UserName.AutoSize = true;
+            this.lbl_UserName.Location = new System.Drawing.Point(94, 383);
+            this.lbl_UserName.Name = "lbl_UserName";
+            this.lbl_UserName.Size = new System.Drawing.Size(35, 13);
+            this.lbl_UserName.TabIndex = 8;
+            this.lbl_UserName.Text = "Name";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lbl_UserName);
             this.Controls.Add(this.listB_Users);
             this.Controls.Add(this.txtMessage);
             this.Controls.Add(this.lbl_ChatTo);
@@ -141,5 +152,6 @@
         private System.Windows.Forms.Label lbl_ChatTo;
         private System.Windows.Forms.TextBox txtMessage;
         private System.Windows.Forms.ListBox listB_Users;
+        private System.Windows.Forms.Label lbl_UserName;
     }
 }

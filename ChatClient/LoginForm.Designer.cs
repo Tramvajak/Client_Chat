@@ -63,6 +63,7 @@
             this.txt_Login.Name = "txt_Login";
             this.txt_Login.Size = new System.Drawing.Size(100, 25);
             this.txt_Login.TabIndex = 2;
+            this.txt_Login.Text = "test1";
             // 
             // txt_Password
             // 
@@ -71,6 +72,7 @@
             this.txt_Password.Name = "txt_Password";
             this.txt_Password.Size = new System.Drawing.Size(100, 25);
             this.txt_Password.TabIndex = 4;
+            this.txt_Password.Text = "test";
             // 
             // label2
             // 
