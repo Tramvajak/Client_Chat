@@ -146,8 +146,15 @@ namespace ChatClient
 
         private void LoginForm_FormClosed(object sender, FormClosedEventArgs e)
         {
-            th.Abort();
-            Application.Exit();
+            try
+            {
+                 th.Abort();
+                Application.Exit();
+            }
+            catch
+            {
+
+            }
         }
     }
 }

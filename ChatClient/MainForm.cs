@@ -176,11 +176,11 @@ namespace ChatClient
                 }
                 catch (Exception ex)
                 {
-                    if (ex.Message.Length > 118)
-                        Invoke((MethodInvoker)delegate ()
-                        {
-                            //CloseConnection("Server down!");
-                        });
+                    //if (ex.Message.Length > 118)
+                    //    Invoke((MethodInvoker)delegate ()
+                    //    {
+                    //        //CloseConnection("Server down!");
+                    //    });
                 }
             }
         }
@@ -205,6 +205,7 @@ namespace ChatClient
                     int indexfound = listB_Users.FindString(user);
                     if(indexfound >= 0)
                     {
+                        if (listB_Users.Items[indexfound].ToString().Substring(user.Length) == "[Online]") continue;
                         listB_Users.Items[indexfound] +=  "[Online]";
                         return;
                     }
@@ -214,7 +215,7 @@ namespace ChatClient
             {
                 for (int i = 0; i < listB_Users.Items.Count; i++)
                 {
-                    if (listB_Users.Items.ToString().Contains(user))
+                    if (listB_Users.Items[i].ToString().Contains(user+"[Online]"))
                     {
                         listB_Users.Items[i] = listB_Users.Items[i].ToString().Replace("[Online]",String.Empty);
                     }
@@ -336,6 +337,10 @@ namespace ChatClient
 
         private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
         {
+            swSender.Close();
+            swSender = null;
+            srReceiver.Close();
+            srReceiver = null;
             th.Abort();
             Application.Exit();
         }
