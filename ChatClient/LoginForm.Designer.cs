@@ -33,6 +33,8 @@
             this.txt_Login = new System.Windows.Forms.TextBox();
             this.txt_Password = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.lbl_ErrorMess = new System.Windows.Forms.Label();
+            this.new_btn1 = new ChatClient.New_btn();
             this.SuspendLayout();
             // 
             // btn_Login
@@ -84,12 +86,32 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "Password";
             // 
+            // lbl_ErrorMess
+            // 
+            this.lbl_ErrorMess.AutoSize = true;
+            this.lbl_ErrorMess.Location = new System.Drawing.Point(65, 45);
+            this.lbl_ErrorMess.Name = "lbl_ErrorMess";
+            this.lbl_ErrorMess.Size = new System.Drawing.Size(84, 13);
+            this.lbl_ErrorMess.TabIndex = 5;
+            this.lbl_ErrorMess.Text = "Connection Lost";
+            this.lbl_ErrorMess.Visible = false;
+            // 
+            // new_btn1
+            // 
+            this.new_btn1.Location = new System.Drawing.Point(59, 211);
+            this.new_btn1.Name = "new_btn1";
+            this.new_btn1.Size = new System.Drawing.Size(100, 50);
+            this.new_btn1.TabIndex = 6;
+            this.new_btn1.Text = "new_btn1";
+            // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(232, 273);
+            this.Controls.Add(this.new_btn1);
+            this.Controls.Add(this.lbl_ErrorMess);
             this.Controls.Add(this.txt_Password);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txt_Login);
@@ -112,5 +134,7 @@
         private System.Windows.Forms.TextBox txt_Login;
         private System.Windows.Forms.TextBox txt_Password;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lbl_ErrorMess;
+        private New_btn new_btn1;
     }
 }

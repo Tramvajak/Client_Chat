@@ -176,11 +176,23 @@ namespace ChatClient
                 }
                 catch (Exception ex)
                 {
-                    //if (ex.Message.Length > 118)
-                    //    Invoke((MethodInvoker)delegate ()
-                    //    {
-                    //        //CloseConnection("Server down!");
-                    //    });
+
+                    try
+                    {
+                        Invoke((MethodInvoker)delegate ()
+                        {
+                            th.Abort();
+                            Thread.Sleep(2000);
+                            LoginForm login = new LoginForm("Connection Lost");
+                            login.Show();
+                            this.Hide();
+                            //CloseConnection("Server down!");
+                        });
+                    }
+                    catch
+                    {
+
+                    }
                 }
             }
         }

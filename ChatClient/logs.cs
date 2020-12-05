@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Server_Chat
+namespace ChatClient
 {
     static class Debug
     {
@@ -70,8 +70,8 @@ namespace Server_Chat
                 if (key == 3) msg = String.Format("[" + DateTime.Now + "] [Error] " + line);
                 //File.AppendAllText(_logPath, msg);
                 blockCollent.Add(msg);
-               //e = new StatusChangedEventArgs(msg); // что бы отправить 
-                OnStatusChanged(e);
+                //e = new StatusChangedEventArgs(msg); // что бы отправить 
+                //OnStatusChanged(e);
                 System.Diagnostics.Debug.WriteLine(msg);
             }
             catch(Exception ex)

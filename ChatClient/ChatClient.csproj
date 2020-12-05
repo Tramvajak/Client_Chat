@@ -63,6 +63,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UI\New_btn.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Core.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
@@ -133,5 +136,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

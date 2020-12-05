@@ -16,7 +16,7 @@ namespace ChatClient
         static void Main()
         {
             //if (File.Exists("log.txt")) File.Create("log.txt");
-            Debug.Init();
+            //Debug.Init();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginForm());

@@ -28,3 +28,14 @@ C:\Users\Tramvajak\Source\Repos\Client_Chat\ChatClient\obj\Debug\ChatClient.Prop
 C:\Users\Tramvajak\Source\Repos\Client_Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
 C:\Users\Tramvajak\Source\Repos\Client_Chat\ChatClient\obj\Debug\ChatClient.exe
 C:\Users\Tramvajak\Source\Repos\Client_Chat\ChatClient\obj\Debug\ChatClient.pdb
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\bin\Debug\ChatClient.exe.config
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\bin\Debug\ChatClient.exe
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\bin\Debug\ChatClient.pdb
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.LoginForm.resources
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.MainForm.resources
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.exe
+E:\Users\Tramvajak\source\repos\Client_Chat\ChatClient\obj\Debug\ChatClient.pdb

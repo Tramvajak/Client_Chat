@@ -16,9 +16,16 @@ namespace ChatClient
 {
     public partial class LoginForm : Form
     {
-        public LoginForm()
+        public LoginForm(string errormess = null)
         {
+            
             InitializeComponent();
+            if (errormess != null)
+            {
+                lbl_ErrorMess.Text = errormess;
+                lbl_ErrorMess.ForeColor = Color.Red;
+                lbl_ErrorMess.Visible = true;
+            }
             Debug.WriteLine(1,"Open Login Form");
         }
         private string UserName = "Unknown";
@@ -148,12 +155,12 @@ namespace ChatClient
         {
             try
             {
-                 th.Abort();
+                th.Abort();
                 Application.Exit();
             }
             catch
             {
-
+                Application.Exit();
             }
         }
     }
